@@ -154,7 +154,7 @@ var ary_SongData = [
 
 
 //fine
-[1, "Amazing<wbr>☆World", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-fi.png", "-2WfNfVy_qo", "fine", "fine", "Wataru solo", 0, 1],
+[1, "Amazing☆World", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-fi.png", "-2WfNfVy_qo", "fine", "fine", "Wataru solo", 0, 1],
 [1, "Feathers of Ark", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es2-e-fe.png", "M6o--Djuh0o", "fine", "fine", "", 0, 0],
 [1, "Genuine Revelation", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-fi.png", "KLdzfn4H-4g", "fine", "fine", "Past fine", 0, 0],
 [1, "Habataki no Fortissimo", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-fi.png", "ASazs66VPE0", "fine", "fine", "", 0, 0],
@@ -210,7 +210,7 @@ var ary_SongData = [
 [1, "Kimi Shirushi Be Ambitious!!", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "P_u-kx8r5fc", "MaM", "MaM", "", 0, 0],
 [1, "RevolTrad ~Ishin-Denshin~", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "hl3XFqHeNGI", "MaM", "MaM", "with AKATSUKI", 0, 0],
 [1, "See You Again", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "_3T1f9FI2l4", "MaM", "MaM", "Madara solo", 0, 1],
-[1, "Tsujikaze ni Fukarete", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "SD8Z4nYnrBI", "MaM", "MaM", "with Team Ushiwaka<wbr>maru", 0, 0],
+[1, "Tsujikaze ni Fukarete", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "SD8Z4nYnrBI", "MaM", "MaM", "with Team Ushiwakamaru", 0, 0],
 [1, "Yukai Tsuukai That's Alright!", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es-an-ed5.png", "70fY0myPTCQ", "MaM", "MaM", "", 0, 0],
 //[1, "Ryusei no Kagaribi", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es-os-2.png", "yt", "MaM", "MaM", "Stage", 1, 0]
 
@@ -218,14 +218,14 @@ var ary_SongData = [
 //rabits
 [1, "Dream Collection", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "_GO6ALUuaAg", "Ra✽bits", "Ra✽bits", "", 0, 0],
 [1, "FALLIN' LOVE=IT'S WONDERLAND", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es2-s2-ra.png", "8bwAsQFJsJU", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Happy Coming<wbr>＊Tea Time", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "TloPAp6-VCU", "Ra✽bits", "Ra✽bits", "Hajime solo", 0, 1],
+[1, "Happy Coming＊Tea Time", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "TloPAp6-VCU", "Ra✽bits", "Ra✽bits", "Hajime solo", 0, 1],
 [1, "Higher↑ Higher↑", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "_aMEkGll1YI", "Ra✽bits", "Ra✽bits", "Tomoya solo", 0, 1],
 [1, "Hoppin' Season♪", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "3tBBT4SqCic", "Ra✽bits", "Ra✽bits", "", 0, 0],
 [1, "Joyful×Box*", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "qjU-5sfKPV8", "Ra✽bits", "Ra✽bits", "", 0, 0],
 [1, "Love it Love it", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es2-s1-ra.png", "PXBxOy_H5oc", "Ra✽bits", "Ra✽bits", "", 0, 0],
 [1, "Love Ra*bits Party!!", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "e8jLv8OgAyk", "Ra✽bits", "Ra✽bits", "", 0, 0],
 [1, "Made in Tokimeki♪", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es-an-ed2.png", "SwvX01eQIKk", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Melty<wbr>♡Kitchen", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "bk_HIVTaWCg", "Ra✽bits", "Ra✽bits", "", 0, 0],
+[1, "Melty♡Kitchen", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "bk_HIVTaWCg", "Ra✽bits", "Ra✽bits", "", 0, 0],
 [1, "Milky Starry Charm", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "NF-GUbzFyQ0", "Ra✽bits", "Ra✽bits", "", 0, 0],
 [1, "Niichan Ouen Dan☆", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "LQ0sIeRFB4Q", "Ra✽bits", "Ra✽bits", "Nazuna solo", 0, 1],
 [1, "Nousagi March♪", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ra.png", "GT5j6TSD9Zg", "Ra✽bits", "Ra✽bits", "", 0, 0],
@@ -235,20 +235,20 @@ var ary_SongData = [
 
 //ryuseitai
 [1, "ALWAYS HERO!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "lXVnN8l3fLs", "RYUSEITAI", "RYUSEITAI", "Chiaki solo", 0, 1],
-[1, "Goshoku no Shooting<wbr>☆Star!!!!!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "oIW0mfNGHtU", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
+[1, "Goshoku no Shooting☆Star!!!!!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "oIW0mfNGHtU", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 [1, "GROWING STARRY DAYS", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "ism_onkGGjA", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 [1, "Heart Heat Beat", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s2-ry.png", "oMJPsHduvzw", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 [1, "IRON HEART TIGER!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "tUiH_NJTsSw", "RYUSEITAI", "RYUSEITAI", "Tetora solo", 0, 1],
 [1, "Mahiru no Zanzou", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "Cgh1q5hoDeA", "RYUSEITAI", "RYUSEITAI", "Midori solo", 0, 1],
 [1, "Marine Blue Rendezvous", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "Ic4vCJxFWwQ", "RYUSEITAI", "RYUSEITAI", "Kanata solo", 0, 1],
-[1, "Meteor Scramble<wbr>☆RYUSEITAI", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es-an-ed4.png", "OcdYXjpDGOM", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Nekketsu<wbr>☆Ryusei Ninpouchou", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s2-ry.png", "5S55fL7EkNU", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
+[1, "Meteor Scramble☆RYUSEITAI", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es-an-ed4.png", "OcdYXjpDGOM", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
+[1, "Nekketsu☆Ryusei Ninpouchou", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s2-ry.png", "5S55fL7EkNU", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 [1, "Ryuusei Hanabi", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "QFWFl3w4zGA", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 [1, "Shippuu Jinrai Shinobi Michi", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "G_Bffpoc_qU", "RYUSEITAI", "RYUSEITAI", "Shinobu solo", 0, 1],
 [1, "Suisei HALATION", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s1-ry.png", "RJfaCabzU1s", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 [1, "SUPER NOVA REVOLU5TAR", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "H3CYvlqEeec", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Tenka Muteki<wbr>☆Meteoranger!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "O5l9yRTcvbk", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Unlimited<wbr>☆Power!!!!!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "YS4IkIrIDrI", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
+[1, "Tenka Muteki☆Meteoranger!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "O5l9yRTcvbk", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
+[1, "Unlimited☆Power!!!!!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "YS4IkIrIDrI", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 [1, "Yumenosaki Ryuuseitai Uta", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-ry.png", "u2BW406dh6Q", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
 //[1, "High Five For You!!!!!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es-os-2.png", "yt", "RYUSEITAI", "RYUSEITAI", "Stage", 1, 0]
 
@@ -271,11 +271,11 @@ var ary_SongData = [
 //trickstar
 [1, "1st SING-ALONG☆", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es-an-ed1.png", "aE90X4shXfY", "Trickstar", "Trickstar", "", 0, 0],
 [1, "BIGBANG REFLECTION!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s1-ts.png", "5TZBt_sw39Y", "Trickstar", "Trickstar", "", 0, 0],
-[1, "BREAK<wbr>THROUGH!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "g_Ttz8FkP6E", "Trickstar", "Trickstar", "", 0, 0],
+[1, "BREAKTHROUGH!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "g_Ttz8FkP6E", "Trickstar", "Trickstar", "", 0, 0],
 [1, "CHERRY HAPPY STREAM", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "yWRmHbaY7u8", "Trickstar", "Trickstar", "", 0, 0],
 [1, "DIAMOND SUMMER", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "LXxCjDJfbFA", "Trickstar", "Trickstar", "", 0, 0],
 [1, "Finder Girl", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s2-ts.png", "VwOt50c0PPo", "Trickstar", "Trickstar", "", 0, 0],
-[1, "HEART<wbr>→BEATER!!!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "x358hbFHzqw", "Trickstar", "Trickstar", "", 0, 0],
+[1, "HEART→BEATER!!!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "x358hbFHzqw", "Trickstar", "Trickstar", "", 0, 0],
 [1, "Infinite Star", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "HUNGSHzpohk", "Trickstar", "Trickstar", "", 0, 0],
 [1, "MAGICIAN’S PLAY!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "uFGfBboq-pE", "Trickstar", "Trickstar", "Mao solo", 0, 1],
 [1, "My Starry Point", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ts.png", "3E5Jbloa9yw", "Trickstar", "Trickstar", "Subaru solo", 0, 1],
@@ -340,7 +340,7 @@ var ary_SongData = [
 
 //fuison
 [1, "Artistic Partisan", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fu-3.png", "O-JxfEwOafM", "ALKALOID & Valkyrie", "ALKALOID & Valkyrie", "Fusion", 0, 0],
-[1, "Crossing<wbr>×Heart", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fu-4.png", "YzsH9iSka60", "Trickstar & fine", "Trickstar & fine", "Fusion", 0, 0],
+[1, "Crossing×Heart", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fu-4.png", "YzsH9iSka60", "Trickstar & fine", "Trickstar & fine", "Fusion", 0, 0],
 [1, "LEMON SQUASH CHEERS! ", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fu-7.png", "z9N2IZQJtIc", "Crazy:B & 2wink", "Crazy:B & 2wink", "Fusion", 0, 0],
 [1, "Majestic Magic", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fu-1.png", "JD6oLMTh298", "Switch & Eden", "Switch & Eden", "Fusion", 0, 0],
 [1, "PERFECTLY-IMPERFECT", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fu-5.png", "eXcCTzLwsnY", "UNDEAD & AKATSUKI", "UNDEAD & AKATSUKI", "Fusion", 0, 0],
@@ -357,7 +357,7 @@ var ary_SongData = [
 //[1, "How to move'n chess", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os.png", "yt", "Izumi & Arashi & Nazuna & Kuro", "Izumi & Arashi & Nazuna & Kuro", "Stage", 1, 0]
 //[1, "material advantage", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os.png", "yt", "Izumi & Arashi & Eichi", "Izumi & Arashi & Eichi", "Stage", 1, 0]
 //[1, "Nine hundred and sixty", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os.png", "yt", "Ritsu & Eichi", "Ritsu & Eichi", "Stage", 1, 0]
-//[1, "Singin'<wbr>☆Shine", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os.png", "yt", "Ensemble", "Ensemble", "Stage", 1, 0]
+//[1, "Singin'☆Shine", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os.png", "yt", "Ensemble", "Ensemble", "Stage", 1, 0]
 //[1, "Finding Winding Road", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os-2.png", "yt", "Tetora & Midori & Shinobu", "Tetora & Midori & Shinobu", "Stage", 1, 0]
 //[1, "Kanata e no Uta", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os-2.png", "yt", "Kanata", "Kanata", "Stage", 1, 0]
 ];
