@@ -37,6 +37,7 @@ var ary_TitleData = [
 "UNDEAD",
 "Valkyrie",
 "Temporary Units",
+"Fusion",
 "Ensemble/Various"
 ];
 
