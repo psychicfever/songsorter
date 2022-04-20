@@ -329,7 +329,7 @@ var ary_SongData = [
 [1, "Crush of Judgment", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es1-a-kn.png", "HBh-AddJRrY", "Knights Killers", "Knights Killers", "", 0, 0],
 [1, "Date Plan A to Z", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-su-1.png", "28tiTBvFv58", "√AtoZ", "√AtoZ", "", 0, 0],
 [1, "Death Game Holic", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es1-a-ud.png", "aP0Pjtz2PPY", "DEADMANZ", "DEADMANZ", "", 0, 0],
-[1, "Eccentric Party Night", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es1-a-sw.png", "rD6hPujfm4o", "Oddbalds", "Oddballs", "", 0, 0],
+[1, "Eccentric Party Night", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es1-a-sw.png", "rD6hPujfm4o", "Oddballs", "Oddballs", "", 0, 0],
 [1, "Endless Vide", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fs.png", "5EU_cmTI-nk", "Fraternity", "Fraternity", "", 0, 0],
 [1, "Life is so Dramatic!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-s10.png", "DjIIjxLv0T8", "SCREEN10", "SCREEN10", "", 0, 0],
 [1, "Midnight Butlers", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-su-1.png", "6NoxNRXpmgo", "XXVeil", "XXVeil", "", 0, 0],
