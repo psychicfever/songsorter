@@ -41,7 +41,7 @@ var ary_TitleData = [
 ];
 
 // Number of columns in the selection list.
-var int_Colspan = 3;
+var int_Colspan = 4;
 
 // * Music information
 // [Index: Meaning]
