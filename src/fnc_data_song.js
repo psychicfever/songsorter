@@ -359,3 +359,4 @@ var ary_SongData = [
 //[1, "Singin'<wbr>☆Shine", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os.png", "yt", "Ensemble", "Ensemble", "Stage", 1, 0]
 //[1, "Finding Winding Road", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os-2.png", "yt", "Tetora & Midori & Shinobu", "Tetora & Midori & Shinobu", "Stage", 1, 0]
 //[1, "Kanata e no Uta", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es-os-2.png", "yt", "Kanata", "Kanata", "Stage", 1, 0]
+];
