@@ -335,6 +335,7 @@ var ary_SongData = [
 [1, "Moonlight Disco", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-su-2.png", "biCFdIqQtc0", "Getto Spectacle", "Getto Spectacle", "", 0, 0],
 [1, "Noir Neige", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-su-2.png", "VAKVSaz28Ao", "La Mort", "La Mort", "", 0, 0],
 [1, "Sweet Sweet White Song", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-su-1.png", "lOqdUV0yPJI", "Branco", "Branco", "", 0, 0],
+[1, "Paradigm Reversi!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "nopic.png", "0xisMnl91VM", "Puffy☆Bunny", "Puffy☆Bunny", "", 0, 0],
 
 //fuison
 [1, "Artistic Partisan", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fu-3.png", "O-JxfEwOafM", "ALKALOID & Valkyrie", "ALKALOID & Valkyrie", "Fusion", 0, 0],
