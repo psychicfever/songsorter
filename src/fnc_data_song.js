@@ -74,7 +74,7 @@ const TRACK_TYPE = 9;
 
 var ary_SongData = [
 //2wink
-[1, "2wink Introduction", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "yt", "2wink", "2wink", "", 0, 0],
+[1, "2wink Introduction", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "HOqNYSMBRR0", "2wink", "2wink", "", 0, 0],
 [1, "2winkle Star Beat☆", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "WZ7uGd7JXwc", "2wink", "2wink", "", 0, 0],
 [1, "Fighting Dreamer", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-2w.png", "-gSkm51gi_E", "2wink", "2wink", "", 0, 0],
 [1, "Heart Prism・Symmetry", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "oxdvynTUnjA", "2wink", "2wink", "", 0, 0],
@@ -112,7 +112,7 @@ var ary_SongData = [
 [1, "Believe 4 leaves", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-al.png", "6hM-srwfgvY", "ALKALOID", "ALKALOID", "", 0, 0],
 [1, "Distorted Heart", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-al.png", "hF3PO-Oui74", "ALKALOID", "ALKALOID", "", 0, 0],
 [1, "Hysteric Humanoid", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-al.png", "PaK_iuPvgcc", "ALKALOID", "ALKALOID", "", 0, 0],
-[1, "Kiss of Life", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-al.png", "DUc6AdMlTuE", "ALKALOID", "ALKALOID", "", 0, 0],
+[1, "Kiss of Life", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-al.png", "ICLp0zIPJoc", "ALKALOID", "ALKALOID", "", 0, 0],
 [1, "Living on the edge", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-al.png", "Dbr5M0nn4DE", "ALKALOID", "ALKALOID", "", 0, 0],
 [1, "Tsubasa Moratorium", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-al.png", "Z1JxXTOmgKw", "ALKALOID", "ALKALOID", "", 0, 0],
 [1, "You’re Speculation", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-al.png", "D09nvht0asc", "ALKALOID", "ALKALOID", "", 0, 0],
@@ -188,7 +188,7 @@ var ary_SongData = [
 [1, "Article of Faith", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "fbHef_byH8g", "Knights", "Knights", "", 0, 0],
 [1, "Birthday Of Music!", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "5_fsC3WTrx4", "Knights", "Knights", "Leo solo", 0, 1],
 [1, "Castle of my Heart", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es2-s2-kn.png", "oasGB4_DEHo", "Knights", "Knights", "", 0, 0],
-[1, "Checkmate Knights", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "2Taxkq3FOP4", "Knights", "Knights", "", 0, 0],
+[1, "Checkmate Knights", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "d5jcRSenxCM", "Knights", "Knights", "", 0, 0],
 [1, "Fight for Judge", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "cqUTuEgnCto", "Knights", "Knights", "", 0, 0],
 [1, "Grateful Allegiance", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "pAgbCb3hZO4", "Knights", "Knights", "", 0, 0],
 [1, "Ironic Blue", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "HYwh0YdyewE", "Knights", "Knights", "Izumi solo", 0, 1],
@@ -293,7 +293,7 @@ var ary_SongData = [
 
 //undead
 [1, "Bloody Moon Vampire", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-ud.png", "9RvX6Nclf6I", "UNDEAD", "UNDEAD", "Rei solo", 0, 1],
-[1, "Break the Prison", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-ud.png", "N7E_zmX-qsw", "UNDEAD", "UNDEAD", "", 0, 0],
+[1, "Break the Prison", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-ud.png", "-iVRdWkVzbk", "UNDEAD", "UNDEAD", "", 0, 0],
 [1, "Darkness 4", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-ud.png", "niogqdPd3oE", "UNDEAD", "UNDEAD", "", 0, 0],
 [1, "DESTRUCTION ROAD", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-ud.png", "CdXyFBpbo-k", "UNDEAD", "UNDEAD", "", 0, 0],
 [1, "Feather Heartache", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-ud.png", "j6-YHFE0pfI", "UNDEAD", "UNDEAD", "Kaoru solo", 0, 1],
