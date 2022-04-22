@@ -177,6 +177,15 @@ function init()
 	}
 	else
 	{
+		// i just want the song order to be random okay
+		function shuffleArray(array) {
+			for (let i = array.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1));
+				[array[i], array[j]] = [array[j], array[i]];
+			}
+		}
+		shuffleArray(ary_TempData);
+		
 		// We're ready, disable all options
 		for (i=0; i < ary_TitleData.length; i++)
 		{
