@@ -255,7 +255,7 @@ var ary_SongData = [
 
 //switch
 [1, "Bluebird Humming♪", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-sw.png", "4O_k-Y39nCc", "Switch", "Switch", "Tsumugi solo", 0, 1],
-[1, "Brilliant Smile", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "nopic.png", "2XWbX2he5Nk", "Switch", "Switch", "", 0, 0],
+[1, "Brilliant Smile", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s2-sw.png", "2XWbX2he5Nk", "Switch", "Switch", "", 0, 0],
 [1, "Easter Carnival", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-sw.png", "wU8L7Vktsy4", "Switch", "Switch", "", 0, 0],
 [1, "Emerald Planet", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-sw.png", "01fVeY6ytYs", "Switch", "Switch", "", 0, 0],
 [1, "Galaxy Destiny", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-sw.png", "cBpWvQoG0Sw", "Switch", "Switch", "", 0, 0],
@@ -266,6 +266,7 @@ var ary_SongData = [
 [1, "Secret Gravity", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-sw.png", "xz-Ytc6ZkPk", "Switch", "Switch", "Natsume solo", 0, 1],
 [1, "Temptation Magic", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-sw.png", "Aw5fXYnDaOk", "Switch", "Switch", "", 0, 0],
 [1, "VIVID ROLE-PLAYING", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-sw.png", "tdwkskabtD4", "Switch", "Switch", "Sora solo", 0, 1],
+[1, "A little bit UP!!", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s2-sw.png", "iDSPh9hxTSQ", "Switch", "Switch", "", 0, 1],
 
 
 //trickstar
@@ -310,7 +311,7 @@ var ary_SongData = [
 
 
 //valkyrie
-[1, "Acanthe", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "nopic.png", "tnsquz3RnIY", "Valkyrie", "Valkyrie", "", 0, 0],
+[1, "Acanthe", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-s2-va.png", "tnsquz3RnIY", "Valkyrie", "Valkyrie", "", 0, 0],
 [1, "Cloth Waltz", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es1-a-va.png", "GMVJzDDMBi0", "Valkyrie", "Valkyrie", "Shu solo", 0, 1],
 [1, "Eternal Weaving", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-s1-va.png", "fHueDPXGZX8", "Valkyrie", "Valkyrie", "", 0, 0],
 [1, "Gaisenka", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es-an-ed5.png", "oFCruJ5LkLE", "Valkyrie", "Valkyrie", "", 0, 0],
@@ -322,6 +323,7 @@ var ary_SongData = [
 [1, "Raisanka", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es1-a-va.png", "tRbAZqEq2OU", "Valkyrie", "Valkyrie", "", 0, 0],
 [1, "Sajou no Roukaku", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es1-a-va.png", "nOQ9jwhGxTk", "Valkyrie", "Valkyrie", "Past Valkyrie", 0, 0],
 [1, "Sei Shounen Yuugi", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es1-a-va.png", "CTvcZO6u_2M", "Valkyrie", "Valkyrie", "Past Valkyrie", 0, 0],
+[1, "Uruwashi no Nightingale", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-s2-va.png", "RQsmbeaRykA", "Valkyrie", "Valkyrie", "", 0, 0],
 
 
 //temp units
