@@ -106,6 +106,7 @@ var ary_SongData = [
 [1, "Usubeniiro no Yakusoku", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "me--Ejznn2g", "AKATSUKI", "AKATSUKI", "", 0, 0],
 [1, "Yozora, Saritote Kasasagi wa", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-ak.png", "oSN4uJArSCE", "AKATSUKI", "AKATSUKI", "", 0, 0],
 [1, "Zan -Ketsui no Yaiba-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "CuAIFTp7bEs", "AKATSUKI", "AKATSUKI", "", 0, 0],
+[1, "Natsudori no Uta -Summer Bird-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s3-ak.png", "xU_bmCaniFA", "AKATSUKI", "AKATSUKI", "", 0, 0],
 
 
 //alkaloid
@@ -130,7 +131,7 @@ var ary_SongData = [
 
 //double face
 [1, "=EYE=", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-df.png", "XLhYUv7zyiw", "Double Face", "Double Face", "", 0, 0],
-[1, "No name yet", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-df.png", "1ggOfs0b0fQ", "Double Face", "Double Face", "", 0, 0],
+[1, "No name yet", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-df.png", "r_sHoP_hv5Y", "Double Face", "Double Face", "", 0, 0],
 [1, "Secret of Metropolis", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-df.png", "3v3qeVhFq6I", "Double Face", "Double Face", "", 0, 0],
 [1, "Stippling", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-df.png", "JjRH9n8t5fA", "Double Face", "Double Face", "", 0, 0],
 [1, "Sleeper Mystery Train", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-df.png", "WiG-eOyRlPA", "Double Face", "Double Face", "", 0, 0],
@@ -175,12 +176,12 @@ var ary_SongData = [
 
 
 //jin & akiomi
-[1, "Binetsu Carnaval", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "YUgAZpVm5AI", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
-[1, "BUTTERFLY EFFECT", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "N0niruSWCb0", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
+[1, "Binetsu Carnaval", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "YUgAZpVm5AI", "Jin & Akiomi", "Jin & Akiomi", "Jin solo", 0, 1],
+[1, "BUTTERFLY EFFECT", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "N0niruSWCb0", "Jin & Akiomi", "Jin & Akiomi", "Akiomi solo", 0, 1],
 [1, "Ensemble Taisou!!", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es2-e-ja.png", "bzuIiCEzELo", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
 [1, "Kagayaki No Naka De", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es2-e-ja.png", "aSGo-So-vWw", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
 [1, "Rainbow Stairway", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es1-uc-ji.png", "k0YC9iVkqGY", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
-[1, "Sentimental Liars ", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "ZadBEw9-Xk4", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
+[1, "Sentimental Liars", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "ZadBEw9-Xk4", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
 
 
 //knights
@@ -200,6 +201,7 @@ var ary_SongData = [
 [1, "Silent Oath", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "BdrwLIxhvks", "Knights", "Knights", "", 0, 0],
 [1, "Voice of Sword", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "9PTdLmOFNow", "Knights", "Knights", "", 0, 0],
 [1, "With My Honesty", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "gf12ZjEwq10", "Knights", "Knights", "Tsukasa solo", 0, 1],
+[1, "Coruscate Breeze", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "nopic.png", "yxTrUK27acA", "Knights", "Knights", "", 0, 0],
 
 
 //mam
@@ -263,7 +265,8 @@ var ary_SongData = [
 [1, "Secret Gravity", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "xz-Ytc6ZkPk", "Switch", "Switch", "Natsume solo", 0, 1],
 [1, "Temptation Magic", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "Aw5fXYnDaOk", "Switch", "Switch", "", 0, 0],
 [1, "VIVID ROLE-PLAYING", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "tdwkskabtD4", "Switch", "Switch", "Sora solo", 0, 1],
-[1, "A little bit UP!!", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s2-sw.png", "6YiC_YtLEdo", "Switch", "Switch", "", 0, 1],
+[1, "A little bit UP!!", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s2-sw.png", "6YiC_YtLEdo", "Switch", "Switch", "", 0, 0],
+[1, "Romancing Cruise", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "nopic.png", "G2fHypmzJFY", "Switch", "Switch", "", 0, 0],
 
 
 //trickstar
@@ -284,7 +287,7 @@ var ary_SongData = [
 [1, "Unstoppable Love!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s2-ts.png", "1gU-6gKFGCY", "Trickstar", "Trickstar", "", 0, 0],
 [1, "Walking On My Sunny Road", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "yky-fRPiRqQ", "Trickstar", "Trickstar", "Makoto solo", 0, 1],
 [1, "Welcome to the Trickstar Night☆", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "O_4IRMvdFs0", "Trickstar", "Trickstar", "", 0, 0],
-[1, "Daydream×Reality", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "nopic.png", "y8fsjS-5fNM", "Trickstar", "Trickstar", "", 0, 0],
+[1, "Daydream×Reality", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s3-ts.png", "y8fsjS-5fNM", "Trickstar", "Trickstar", "", 0, 0],
 
 
 //undead
@@ -303,7 +306,7 @@ var ary_SongData = [
 [1, "Saql Faith", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "P7hFtEZrciU", "UNDEAD", "UNDEAD", "Adonis solo", 0, 1],
 [1, "Savage Love Affair", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s2-ud.png", "A4Dh8evYhlk", "UNDEAD", "UNDEAD", "", 0, 0],
 [1, "Valentine Eve's Nightmare", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "e2THOAj1W1w", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Sustain Memories", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "nopic.png", "kdkD98uA4es", "UNDEAD", "UNDEAD", "", 0, 0],
+[1, "Sustain Memories", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s3-ud.png", "kdkD98uA4es", "UNDEAD", "UNDEAD", "", 0, 0],
 
 
 //valkyrie
@@ -352,8 +355,9 @@ var ary_SongData = [
 [1, "FUSIONIC STARS!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fs.png", "hG3dwZPeNjE", "Various", "Various", "", 0, 0],
 [1, "Stars' Ensemble!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es-an-op.png", "4AgK2k-8w9Y", "ES All Stars", "ES All Stars", "Anime OP", 0, 0],
 [1, "Walk with your smile", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-wwys.png", "UxkL5M07QXQ", "Various", "Various", "", 0, 0],
-[1, "Surprising Thanks!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "nopic.png", "rHFPG5GWwQI", "Various", "Various", "", 0, 0],
+[1, "Surprising Thanks!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-st.png", "rHFPG5GWwQI", "Various", "Various", "", 0, 0],
 
 //covers
-[1, "U.S.A.", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "nopic.png", "uwgpvBFi28E", "Crazy:B & UNDEAD", "Crazy:B & UNDEAD", "", 0, 0]
+[1, "U.S.A.", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es2-co-usa.png", "uwgpvBFi28E", "Crazy:B & UNDEAD", "Crazy:B & UNDEAD", "", 0, 0],
+[1, "Hamutaro Tottokouta", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es2-co-ham.png", "Ov0MOaRTv8g", "Ra✽bits & RYUSEITAI", "Ra✽bits & RYUSEITAI", "", 0, 0]
 ];
