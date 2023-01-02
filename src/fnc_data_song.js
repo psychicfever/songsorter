@@ -192,7 +192,7 @@ var ary_SongData = [
 [1, "KILL TIME", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "4SLWSlC74fo", "NOMAD", "NOMAD", "", 0, 0],
 [1, "NOMAD", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "Yy7nsQxeyVA", "NOMAD", "NOMAD", "", 0, 0],
 [1, "Rasen no Yume", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]], "Rasen no Yume.png", "Kw4QmPEzxW0", "Rasen no Yume", "NOMAD", "Altair: A Record of Battles Opening 1", 0, 1],
-[1, "Shitsuke", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "ILEsCfUXjDY", "NOMAD", "NOMAD", "", 0, 0],
+//[1, "Shitsuke", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "ILEsCfUXjDY", "NOMAD", "NOMAD", "", 0, 0],
 [1, "Snow", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "wLYu4NeEQnw", "NOMAD", "NOMAD", "", 0, 0],
 [1, "Teion", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "XJSJ0eJirvk", "NOMAD", "NOMAD", "", 0, 0],
 [1, "XYZ", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "OceL3uiOwFo", "NOMAD", "NOMAD", "", 0, 0],
