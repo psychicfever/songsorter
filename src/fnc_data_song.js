@@ -105,25 +105,32 @@ var ary_SongData = [
 [1, "Toge to Neko", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "xDPFAzrjdvU", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
 [1, "Yell", [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "u_CIUuRlwFo", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
 
-//alkaloid
-[1, "Believe 4 leaves", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-al.png", "6hM-srwfgvY", "ALKALOID", "ALKALOID", "", 0, 0],
-[1, "Distorted Heart", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-al.png", "hF3PO-Oui74", "ALKALOID", "ALKALOID", "", 0, 0],
-[1, "Hysteric Humanoid", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-al.png", "PaK_iuPvgcc", "ALKALOID", "ALKALOID", "", 0, 0],
-[1, "Kiss of Life", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-al.png", "ICLp0zIPJoc", "ALKALOID", "ALKALOID", "", 0, 0],
-[1, "Living on the edge", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-al.png", "Dbr5M0nn4DE", "ALKALOID", "ALKALOID", "", 0, 0],
-[1, "Tsubasa Moratorium", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-al.png", "Z1JxXTOmgKw", "ALKALOID", "ALKALOID", "", 0, 0],
-[1, "You’re Speculation", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-al.png", "D09nvht0asc", "ALKALOID", "ALKALOID", "", 0, 0],
-
-
-//crazyb
-[1, "Be The Party Bee!", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-cb.png", "0J48O38ZWEE", "Crazy:B", "Crazy:B", "", 0, 0],
-[1, "Crazy Roulette", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-cb.png", "cc0l23W0CJo", "Crazy:B", "Crazy:B", "", 0, 0],
-[1, "Honeycomb Summer", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-cb.png", "5uVxCfUd7Pg", "Crazy:B", "Crazy:B", "", 0, 0],
-[1, "Noisy:Beep", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-cb.png", "PzgBnmBWTcA", "Crazy:B", "Crazy:B", "", 0, 0],
-[1, "Paranoia Street", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-cb.png", "Ppznq_Q5i_I", "Crazy:B", "Crazy:B", "", 0, 0],
-[1, "RISKY VENUS", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-uc-cb.png", "cOUgtqDuOdM", "Crazy:B", "Crazy:B", "", 0, 0],
-[1, "Yubisaki no Ariadne", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-cb.png", "MBsRSUGJX2o", "Crazy:B", "Crazy:B", "", 0, 0],
-
+//play
+[1, "chapter 1", [0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "chapter 1.png", "545F9DRWccM", "chapter 1", "play", "", 0, 0],
+[1, "Hosoikoe", [0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Hosoikoe.png", "RWTvQkZEN6U", "Hosoikoe", "play", "", 0, 0],
+[1, "live", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "5StYQbz-0_Y", "play", "play", "", 0, 0],
+[1, "Milk", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "P4FHbqwsmL8", "play", "play", "", 0, 0],
+[1, "Otegami", [0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0], "Otegami.png", "ucKuWm3P6Ao", "Otegami", "play", "", 0, 0],
+[1, "park", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "9CCVg8R5wEU", "play", "play", "", 0, 0],
+[1, "Room", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "8J6mPjzYtNE", "play", "play", "", 0, 0],
+[1, "Shiroi Blouse Kawaii Hito", [0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "v8vT-uyqweU", "play", "play", "", 0, 0],
+[1, "Shutter Speed", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "Ou0u88-x6wg", "play", "play", "", 0, 0],
+[1, "Slow", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "FR50bgMjz84", "play", "play", "", 0, 0],
+[1, "Wana", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "kNiXJAm1TY0", "play", "play", "", 0, 0],
+[1, "Yogoreta Yubi", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "j70Mj469Pis", "play", "play", "", 0, 0],
+	
+//Sentimental Macchiato
+[1, "and boyfriend", [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "TJOsuADKwn0", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "Dear Tokyo", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "s8St4aJIxBI", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "Mascara", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "oDElg7X0ucQ", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "Migite no Spoon to Hatsukoi to Knife", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "PiKEkczSEHE", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "Mitsuyubi", [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Mitsuyubi.png", "_5MyZOA3MmM", "Mitsuyubi", "Sentimental Macchiato", "", 0, 0],
+[1, "Namida no Ondo", [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Namida no Ondo.png", "-uV5PEiyxeo", "Namida no Ondo", "Sentimental Macchiato", "", 0, 0],
+[1, "Natsukoi", [0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0], "Natsukoi.png", "t2Yh8hC32w0", "Natsukoi", "Sentimental Macchiato", "", 0, 0],
+[1, "orion", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "h_ahtTJiihM", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "Shougen", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "CgOb1kg2eJw", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "smile", [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "smile.png", "gVQ2mCPOyZY", "smile", "Sentimental Macchiato", "", 0, 0],
+[1, "Yuukan Collection", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "AzKx_fr76og", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
 
 //double face
 [1, "=EYE=", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-df.png", "XLhYUv7zyiw", "Double Face", "Double Face", "", 0, 0],
