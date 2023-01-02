@@ -79,22 +79,19 @@ const TRACK_TYPE = 9;
 	const OTHER_THEME = 0;
 
 var ary_SongData = [
-//2wink
-[1, "2wink Introduction", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "HOqNYSMBRR0", "2wink", "2wink", "", 0, 0],
-[1, "2winkle Star Beat☆", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "WZ7uGd7JXwc", "2wink", "2wink", "", 0, 0],
-[1, "Fighting Dreamer", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-2w.png", "-gSkm51gi_E", "2wink", "2wink", "", 0, 0],
-[1, "Heart Prism・Symmetry", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "oxdvynTUnjA", "2wink", "2wink", "", 0, 0],
-[1, "Kangei☆2wink Zatsugidan", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "-Z-hgUnoR_s", "2wink", "2wink", "", 0, 0],
-[1, "Mischievous Party Time!!", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es-an-ed3.png", "IlxyR5W2DPg", "2wink", "2wink", "", 0, 0],
-[1, "Play \"Tag\"", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "-Xon7Q-2lq4", "2wink", "2wink", "", 0, 0],
-[1, "POLYPHONIC WORLD", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-2w.png", "BMrP9F4qptc", "2wink", "2wink", "", 0, 0],
-[1, "SPICY BREEZE", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "vQiXIPWLH9s", "2wink", "2wink", "Yuta solo", 0, 1],
-[1, "Sugar Spice Hōteishiki", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "HRXUk8V4PyA", "2wink", "2wink", "", 0, 0],
-[1, "Swee2wink Love Letter", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-2w.png", "jVOV0nFyymA", "2wink", "2wink", "", 0, 0],
-[1, "SwEeT MeLlOw MeLoDy", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "QD4K48i50OA", "2wink", "2wink", "Hinata solo", 0, 1],
-[1, "TRICK with TREAT!!", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "tGtPtQIjLQg", "2wink", "2wink", "with UNDEAD", 0, 0],
-[1, "WONDER WONDER TOY LAND", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-2w.png", "UsaLXb-EhIQ", "2wink", "2wink", "", 0, 0],
-
+//Renai
+[1, "Ajisai", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "PQY8b94BqKc", "Renai", "Renai", "", 0, 0],
+[1, "Akagami Shuffle", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "uIP-rKPCJ1M", "Renai", "Renai", "", 0, 0],
+[1, "Ao", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "jk8mAkFh9tU", "Renai", "Renai", "", 0, 0],
+[1, "Doyoubi no Onna", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "_-SQ8FB9Wik", "Renai", "Renai", "", 0, 0],
+[1, "Hitsuyou Aku", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "vyr2ANfsvYw", "Renai", "Renai", "", 0, 0],
+[1, "Kara no Binsen, Sora e no Tegami", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "_1h7Q_DVx8I", "Renai", "Renai", "", 0, 0],
+[1, "Mousou Nikki", [1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "5NPgKjtm_3A", "Renai", "Renai", "", 0, 0],
+[1, "Owakare no Uta", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "YV4bddWej9Q", "Renai", "Renai", "", 0, 0],
+[1, "Rinjin", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "qW_F6WM9DyI", "Renai", "Renai", "", 0, 0],
+[1, "Virtual Bansankai", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "srXskRyAAas", "Renai", "Renai", "", 0, 0],
+[1, "Watashi wa Ame", [1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "5k5OXVsCBS0", "Renai", "Renai", "", 0, 0],
+	
 
 //akatsuki
 [1, "Akaneji no Kaikou", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "gATqxMLLsAM", "AKATSUKI", "AKATSUKI", "Keito solo", 0, 1],
