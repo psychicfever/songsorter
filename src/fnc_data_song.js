@@ -172,34 +172,31 @@ var ary_SongData = [
 [1, "Nokoriga", [0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Nokoriga.png", "a6ztMbgpYYE", "Nokoriga", "M&W", "", 0, 0],
 [1, "S", [0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0], "S.png", "H3ubi9SAtIE", "S", "M&W", "", 0, 0],
 
-//jin & akiomi
-[1, "Binetsu Carnaval", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "YUgAZpVm5AI", "Jin & Akiomi", "Jin & Akiomi", "Jin solo", 0, 1],
-[1, "BUTTERFLY EFFECT", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "N0niruSWCb0", "Jin & Akiomi", "Jin & Akiomi", "Akiomi solo", 0, 1],
-[1, "Ensemble Taisou!!", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es2-e-ja.png", "bzuIiCEzELo", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
-[1, "Kagayaki No Naka De", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es2-e-ja.png", "aSGo-So-vWw", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
-[1, "Rainbow Stairway", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "es1-uc-ji.png", "k0YC9iVkqGY", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
-[1, "Sentimental Liars", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "en1-uc-ji.png", "ZadBEw9-Xk4", "Jin & Akiomi", "Jin & Akiomi", "", 0, 0],
-
-
-//knights
-[1, "Article of Faith", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "fbHef_byH8g", "Knights", "Knights", "", 0, 0],
-[1, "Birthday Of Music!", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "5_fsC3WTrx4", "Knights", "Knights", "Leo solo", 0, 1],
-[1, "Castle of my Heart", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-kn.png", "oasGB4_DEHo", "Knights", "Knights", "", 0, 0],
-[1, "Checkmate Knights", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "d5jcRSenxCM", "Knights", "Knights", "", 0, 0],
-[1, "Fight for Judge", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "cqUTuEgnCto", "Knights", "Knights", "", 0, 0],
-[1, "Grateful Allegiance", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "pAgbCb3hZO4", "Knights", "Knights", "", 0, 0],
-[1, "Ironic Blue", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "HYwh0YdyewE", "Knights", "Knights", "Izumi solo", 0, 1],
-[1, "JEWEL STONE", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "TDT2I-lDMzg", "Knights", "Knights", "Arashi solo", 0, 1],
-[1, "Knights the Phantom Thief", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "Gc_Iei613x0", "Knights", "Knights", "", 0, 0],
-[1, "Little Romance", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-kn.png", "NawtORjgN20", "Knights", "Knights", "", 0, 0],
-[1, "Mayonaka no Nocturne", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "iPtq8UAxK6Y", "Knights", "Knights", "Ritsu solo", 0, 1],
-[1, "Mystic Fragrance", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-kn.png", "mWV_FWunhL4", "Knights", "Knights", "", 0, 0],
-[1, "Promise Sword", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es-an-ed6.png", "MWWTqKmPgQc", "Knights", "Knights", "", 0, 0],
-[1, "Silent Oath", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "BdrwLIxhvks", "Knights", "Knights", "", 0, 0],
-[1, "Voice of Sword", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "9PTdLmOFNow", "Knights", "Knights", "", 0, 0],
-[1, "With My Honesty", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "es1-a-kn.png", "gf12ZjEwq10", "Knights", "Knights", "Tsukasa solo", 0, 1],
-[1, "Coruscate Breeze", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "nopic.png", "yxTrUK27acA", "Knights", "Knights", "", 0, 0],
-
+//OUTSIDER
+[1, "Akaite", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "ER2Rm73wgqI", "OUTSIDER", "OUTSIDER", "", 0, 0],
+[1, "ANNIVERSARY", [0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0], "ANNIVERSARY.png", "W8WfH375xkQ", "ANNIVERSARY", "OUTSIDER", "Magi: The Kingdom of Magic Opening 1", 0, 1],
+[1, "CANDY", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "vIYlO2QjzHY", "OUTSIDER", "OUTSIDER", "", 0, 0],
+[1, "darling", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "43p7b3azAlE", "OUTSIDER", "OUTSIDER", "", 0, 0],
+[1, "hug", [0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "hug.png", "MngeP5C5aP0", "hug", "OUTSIDER", "", 0, 0],
+[1, "Koi ni Ochite", [0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Koi ni Ochite.png", "5En_bulgCsg", "Koi ni Ochite", "OUTSIDER", "", 0, 0],
+[1, "laser", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "ieiwzx59hlU", "OUTSIDER", "OUTSIDER", "", 0, 0],
+[1, "Meiro", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "GRXVgFRgciY", "OUTSIDER", "OUTSIDER", "", 0, 0],
+[1, "MUSIC", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "p1pvC7ah9bo", "OUTSIDER", "OUTSIDER", "", 0, 0],
+[1, "SA-MA-LA-VA", [0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "SA-MA-LA-VA.png", "4yIiS-bqfT0", "SA-MA-LA-VA", "OUTSIDER", "", 0, 0],
+[1, "V.I.P", [0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0], "V.I.P.png", "fHx_jBrOxAM", "V.I.P", "OUTSIDER", "Magi: The Labyrinth of Magic Opening 1", 0, 1],
+	
+//NOMAD
+[1, "Butterfly Effect", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Butterfly Effect.png", "3ulJz9M1Qak", "Butterfly Effect", "NOMAD", "", 0, 0],
+[1, "Futsuu no Kiseki", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "5mICnWLsd-w", "NOMAD", "NOMAD", "", 0, 0],
+[1, "Garasu no Hitomi", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "Garasu no Hitomi.png", "2JsxMStAtEw", "Garasu no Hitomi", "NOMAD", "Black Butler: Book of the Atlantic Opening", 0, 1],
+[1, "KILL TIME", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "4SLWSlC74fo", "NOMAD", "NOMAD", "", 0, 0],
+[1, "NOMAD", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "Yy7nsQxeyVA", "NOMAD", "NOMAD", "", 0, 0],
+[1, "Rasen no Yume", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]], "Rasen no Yume.png", "Kw4QmPEzxW0", "Rasen no Yume", "NOMAD", "Altair: A Record of Battles Opening 1", 0, 1],
+[1, "Shitsuke", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "ILEsCfUXjDY", "NOMAD", "NOMAD", "", 0, 0],
+[1, "Snow", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "wLYu4NeEQnw", "NOMAD", "NOMAD", "", 0, 0],
+[1, "Teion", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "XJSJ0eJirvk", "NOMAD", "NOMAD", "", 0, 0],
+[1, "XYZ", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "OceL3uiOwFo", "NOMAD", "NOMAD", "", 0, 0],
+	
 
 //mam
 [1, "Blooming World", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "0NEx1Q4ihIo", "MaM", "MaM", "", 0, 0],
