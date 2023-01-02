@@ -228,63 +228,24 @@ var ary_SongData = [
 [1, "Umibe", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "agy_CqAI_I4", "Umibe", "Umibe", "", 0, 0],
 [1, "Yureru Natsufuku", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "1kx4o66vg48", "Umibe", "Umibe", "", 0, 0],
 	
-
-//switch
-[1, "Bluebird Humming♪", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "4O_k-Y39nCc", "Switch", "Switch", "Tsumugi solo", 0, 1],
-[1, "Brilliant Smile", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s2-sw.png", "vHqXE4lpLQg", "Switch", "Switch", "", 0, 0],
-[1, "Easter Carnival", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "wU8L7Vktsy4", "Switch", "Switch", "", 0, 0],
-[1, "Emerald Planet", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "01fVeY6ytYs", "Switch", "Switch", "", 0, 0],
-[1, "Galaxy Destiny", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "cBpWvQoG0Sw", "Switch", "Switch", "", 0, 0],
-[1, "I \"Witch\" You A Happy Halloween!", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "lCDORBjBBig", "Switch", "Switch", "", 0, 0],
-[1, "Knockin' Fantasy", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "v5BuCUTegLU", "Switch", "Switch", "", 0, 0],
-[1, "Magic for your \"Switch\"", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es-an-ed4.png", "LIHUyg57dA8", "Switch", "Switch", "", 0, 0],
-[1, "Omoi no Kakera", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s1-sw.png", "ELFM2WsZN-8", "Switch", "Switch", "", 0, 0],
-[1, "Secret Gravity", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "xz-Ytc6ZkPk", "Switch", "Switch", "Natsume solo", 0, 1],
-[1, "Temptation Magic", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "Aw5fXYnDaOk", "Switch", "Switch", "", 0, 0],
-[1, "VIVID ROLE-PLAYING", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "tdwkskabtD4", "Switch", "Switch", "Sora solo", 0, 1],
-[1, "A little bit UP!!", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es2-s2-sw.png", "6YiC_YtLEdo", "Switch", "Switch", "", 0, 0],
-[1, "Romancing Cruise", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "nopic.png", "G2fHypmzJFY", "Switch", "Switch", "", 0, 0],
-
-
-//trickstar
-[1, "1st SING-ALONG☆", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es-an-ed1.png", "aE90X4shXfY", "Trickstar", "Trickstar", "", 0, 0],
-[1, "BIGBANG REFLECTION!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s1-ts.png", "5TZBt_sw39Y", "Trickstar", "Trickstar", "", 0, 0],
-[1, "BREAKTHROUGH!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "g_Ttz8FkP6E", "Trickstar", "Trickstar", "", 0, 0],
-[1, "CHERRY HAPPY STREAM", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "yWRmHbaY7u8", "Trickstar", "Trickstar", "", 0, 0],
-[1, "DIAMOND SUMMER", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "LXxCjDJfbFA", "Trickstar", "Trickstar", "", 0, 0],
-[1, "Finder Girl", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s2-ts.png", "VwOt50c0PPo", "Trickstar", "Trickstar", "", 0, 0],
-[1, "HEART→BEATER!!!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "x358hbFHzqw", "Trickstar", "Trickstar", "", 0, 0],
-[1, "Infinite Star", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "HUNGSHzpohk", "Trickstar", "Trickstar", "", 0, 0],
-[1, "MAGICIAN’S PLAY!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "uFGfBboq-pE", "Trickstar", "Trickstar", "Mao solo", 0, 1],
-[1, "My Starry Point", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "3E5Jbloa9yw", "Trickstar", "Trickstar", "Subaru solo", 0, 1],
-[1, "Nijiiro no Seasons", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "LZZRQSCZEhk", "Trickstar", "Trickstar", "", 0, 0],
-[1, "ONLY YOUR STARS!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "PdH0BHKK0g8", "Trickstar", "Trickstar", "", 0, 0],
-[1, "Rebellion Star", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "U1KfGzBCB9Q", "Trickstar", "Trickstar", "", 0, 0],
-[1, "STARSEEK WAYFARER", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "YRwkFhsX7Hk", "Trickstar", "Trickstar", "Hokuto solo", 0, 1],
-[1, "Unstoppable Love!", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s2-ts.png", "1gU-6gKFGCY", "Trickstar", "Trickstar", "", 0, 0],
-[1, "Walking On My Sunny Road", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "yky-fRPiRqQ", "Trickstar", "Trickstar", "Makoto solo", 0, 1],
-[1, "Welcome to the Trickstar Night☆", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es1-a-ts.png", "O_4IRMvdFs0", "Trickstar", "Trickstar", "", 0, 0],
-[1, "Daydream×Reality", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "es2-s3-ts.png", "y8fsjS-5fNM", "Trickstar", "Trickstar", "", 0, 0],
-
-
-//undead
-[1, "Bloody Moon Vampire", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "9RvX6Nclf6I", "UNDEAD", "UNDEAD", "Rei solo", 0, 1],
-[1, "Break the Prison", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "-iVRdWkVzbk", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Darkness 4", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "niogqdPd3oE", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "DESTRUCTION ROAD", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "CdXyFBpbo-k", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Feather Heartache", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "j6-YHFE0pfI", "UNDEAD", "UNDEAD", "Kaoru solo", 0, 1],
-[1, "FORBIDDEN RAIN", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s2-ud.png", "5toaW6yIdTM", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Gate of the Abyss", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "R_0t9JtJ0Jc", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Honey Milk wa Okonomi de", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "W1buJk4Kn20", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "IMMORAL WORLD", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es-an-ed1.png", "N7E_zmX-qsw", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Melody in the Dark", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "8VxrwCRrtLk", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Nightless World", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s1-ud.png", "5OHl5ysDA7o", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "RIOT WOLF", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "4ocS4j5cLWc", "UNDEAD", "UNDEAD", "Koga solo", 0, 1],
-[1, "Saql Faith", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "P7hFtEZrciU", "UNDEAD", "UNDEAD", "Adonis solo", 0, 1],
-[1, "Savage Love Affair", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s2-ud.png", "A4Dh8evYhlk", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Valentine Eve's Nightmare", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es1-a-ud.png", "e2THOAj1W1w", "UNDEAD", "UNDEAD", "", 0, 0],
-[1, "Sustain Memories", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "es2-s3-ud.png", "kdkD98uA4es", "UNDEAD", "UNDEAD", "", 0, 0],
-
+	
+//SID ALL SINGLES BEST
+[1, "ENAMEL", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0], "ENAMEL.png", "vDK02xlB47k", "ENAMEL", "SID ALL SINGLES BEST", "Black Butler: Book of Circus Opening", 0, 1],
+[1, "Hyouryuu", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0], "Hyouryuu.png", "hPOyu8jUses", "Hyouryuu", "SID ALL SINGLES BEST", "", 0, 0],
+[1, "Ranbu no Melody", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0], "Ranbu no Melody.png", "MSG4p7rMyn4", "Ranbu no Melody", "SID ALL SINGLES BEST", "Bleach Opening 1", 0, 1],
+[1, "White tree", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0], "White tree.png", "1Myel3o2w0s", "White tree", "SID ALL SINGLES BEST", "", 0, 0],
+[1, "Yumegokochi", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0], "SID ALL SINGLES BEST.png", "rfFRMwZ9BxI", "SID ALL SINGLES BEST", "SID ALL SINGLES BEST", "", 0, 0],
+	
+//SID Anime Best 2008-2017
+[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0], "SID Anime Best 2008-2017.png", "2PyRemO9sAw", "SID Anime Best 2008-2017", "Anime Best", "Self-cover of LiSA's ASH", 1, 1],
+	
+//Side A complete collection
+[1, "delete", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "delete.png", "zNk8xw0AwPk", "delete", "delete", "The Seven Deadly Sins: Wrath of The Gods Opening 2", 0, 1],
+[1, "Houkiboshi", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "Houkiboshi.png", "nbnLUczzpe8", "Houkiboshi", "Houkiboshi", "", 0, 0],
+[1, "Kowairo", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "Kowairo.png", "L1D-Eeq_3zg", "Houkiboshi", "Houkiboshi", "", 0, 0],
+[1, "siren", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "siren.png", "Lcadcmhox5U", "Houkiboshi", "Houkiboshi", "", 0, 0],
+[1, "Star Forest", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "Star Forest.png", "jhWle6ItxZ4", "Star Forest", "Star Forest", "", 0, 0],
+	
 
 //valkyrie
 [1, "Acanthe", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es2-s2-va.png", "wFr4jJiKon8", "Valkyrie", "Valkyrie", "", 0, 0],
