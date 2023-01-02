@@ -273,7 +273,7 @@ var ary_SongData = [
 [1, "Akikaze", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "Itsuka.png", "uMgQD9FjcZY", "Itsuka", "Side B 3", "", 0, 0],
 [1, "Graduation", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "Nokoriga.png", "IExZrH499wA", "Nokoriga", "Side B 3", "", 0, 0],
 [1, "Otori", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "Fuyu no Bench.png", "5nu-eoIqSng", "Fuyu no Bench", "Side B 3", "", 0, 0],
-[1, "SENSE", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0], "Side B complete collection 〜e.B 3〜.png", "RGg1lwlSpk", "Side B complete collection 〜e.B 3〜", "Side B 3", "", 0, 0],
+[1, "SENSE", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0], "Side B complete collection 〜e.B 3〜.png", "RGg1lwlSpkk", "Side B complete collection 〜e.B 3〜", "Side B 3", "", 0, 0],
 [1, "Sugu Soba de", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "cosmetic.png", "x40NxBYQoks", "cosmetic", "Side B 3", "", 0, 0],
 [1, "Utahime", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "sleep.png", "AtxGdZZWkl8", "sleep", "Side B 3", "", 0, 0],
 [1, "Zetsubou no Hata", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0], "Koi ni Ochite.png", "iyBbNIY98do", "Koi ni Ochite", "Side B 3", "", 0, 0],
@@ -284,5 +284,44 @@ var ary_SongData = [
 [1, "Shoukyakuro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "SA-MA-LA-VA.png", "MIJ8o_p4CWM", "SA-MA-LA-VA", "Side B 5", "", 0, 0],
 [1, "Suna no Shiro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "ANNIVERSARY.png", "C2drKn5oJYo", "ANNIVERSARY", "Side B 5", "", 0, 0],
 [1, "Unmei no Hito", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "Hyouryuu.png", "OQMoTxohyZY", "Hyouryuu", "Side B 5", "", 0, 0],
+
 	
+//Non-album releases
+[1, "Aikagi", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "paint pops.png", "rdkoXydaR_A", "paint pops", "paint pops", "", 0, 0],
+[1, "Ao", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "Ryutsu-ban.png", "6LaaZSJXJHg", "Kaijou-ban/Tsuhan-ban/Ryutsu-ban", "1st Maxi Single CD", "pre-Renai arrangement, limited release", 1, 0],
+[1, "Dekisokonai", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "", "Pjt14FfHW2k", "", "", "Live exclusive", 0, 0],
+[1, "Junkan", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "Yoshigai Manabu 17-sai (Mushoku).png", "So5IfdwgrXk", "Yoshigai Manabu 17-sai (Mushoku)", "Yoshigai Manabu 17-sai (Mushoku)", "Debut single, limited release", 0, 0],
+[1, "Natsukoi (G/S Remix)", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "SA-MA-LA-VA.png", "UhnmQepR6XA", "SA-MA-LA-VA", "SA-MA-LA-VA", "", 1, 0],
+[1, "Neurosis Party", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "Ryutsu-ban.png", "PEMNKMlbLz8", "Ryutsu-ban", "1st Maxi Single CD", "Limited release", 0, 0],
+[1, "Watashi wa Ame", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "Ryutsu-ban.png", "6P9CAsCmiIA", "Kaijou-ban/Tsuhan-ban/Ryutsu-ban", "1st Maxi Single CD", "pre-Renai arrangement, limited release", 1, 0],
+[1, "White tree (Piano version)", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "White tree.png", "NAun4x-u2Cc", "White tree", "White tree", "", 1, 0],
+[1, "Yoshigai Manabu 17-sai (Mushoku)", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "Yoshigai Manabu 17-sai (Mushoku).png", "a4Ox-dKtE1I", "Yoshigai Manabu 17-sai (Mushoku)", "Yoshigai Manabu 17-sai (Mushoku)", "Debut single, limited release", 0, 0],
+	
+	
+//Concert Themes
+[1, "Colors", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "Colors.png", "KDOqwhkRbmk", "Colors", "Colors", "15th anniversary tour theme", 0, 0],
+[1, "Legendary", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "Legendary.png", "TerPRtycOX0", "Legendary", "Legendary", "15th anniversary tour grand final theme", 0, 0],
+[1, "Prologue of NOMAD", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "Prologue of NOMAD.png", "PfsWZqMmT7w", "Prologue of NOMAD", "Prologue of NOMAD", "NOMAD tour theme", 0, 0],
+[1, "residence", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "residence.png", "HI5CKtHoPQw", "residence", "residence", "2021 live tour theme", 0, 0],
+	
+		
+//Cover Songs
+[1, "Akatsuki Yami", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "Akatsuki Yami.png", "Rm963Aa3BVg", "Tribute of MUCC", "MUCC cover", "Original by MUCC", 0, 0],
+[1, "JUSTY", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "JUSTY.png", "i5Nun3lK2xE", "HOTEI with FELLOWS - ALL TIME SUPER GUEST", "BOØWY cover", "Original by BOØWY", 0, 0],
+[1, "Shout at the Devil", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "Shout at the Devil.png", "l8MmjIRXXzY", "L'Arc〜en〜Ciel Tribute", "L'Arc-en-Ciel covrr", "Original by L'Arc-en-Ciel", 0, 0],
+[1, "Wish", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "Wish.png", "cymEbFrc3fs", "LUNA SEA Memorial Cover Album -Re:birth-", "LUNA SEA cover", "Original by LUNA SEA", 0, 0],
+[1, "Yasashii Higeki", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "Yasashii Higeki.png", "2iADpPM3L3M", "FUCK THE BORDERLINE", "Kuroyume cover", "Original by Kuroyume", 0, 0],
+	
+		
+//For Other Artists
+[1, "Amagami", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Amagami.png", "7WQ9xnsv9kA", "Sweet Bite", "Kuzuha", "written for Kuzuha (NIJISANJI)", 0, 0],
+[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "ASH.png", "nv9lr6pOeOQ", "ASH", "LiSA", "written for LiSA; Fate/Apocrypha Opening 2", 0, 1],
+[1, "Gin no Yuri", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Gin no Yuri.png", "0kNOdsYCDgQ", "Gin no Yuri", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
+[1, "histoire", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "histoire.png", "kGsd10-WEAo", "histoire", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
+[1, "Kage to Hikari", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "miroir.png", "XAX1UsoNETE", "miroir", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
+[1, "Kyouki no Melody", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Zakuro:Kyouki no Melody.png", "VZmh0qZkKrI", "Zakuro/Kyouki no Melody", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
+[1, "miroir", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "miroir.png", "LWKVMYu_PWA", "miroir", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
+[1, "Owari no Hajimari", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Owari no Hajimari.png", "jdEVhT5z1hA", "Owari no Hajimari", "Taiki", "written for Taiki", 0, 0],
+[1, "Usubeniiro no Yakusoku", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Usubeniiro no Yakusoku.png", "me--Ejznn2g", "Ensemble Stars! Album Series PRESENT -AKATSUKI-", "AKATSUKI", "written for AKATSUKI (Ensemble Stars!)", 0, 0],
+[1, "Zakuro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Zakuro:Kyouki no Melody.png", "i8SX5nGvesI", "Fantôme Iris", "Zakuro/Kyouki no Melody", "written for Fantôme Iris (from ARGONAVIS)", 0, 0]
 ];
