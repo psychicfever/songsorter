@@ -44,7 +44,7 @@ var ary_TitleData = [
 "Non-album releases",
 "Concert Themes",
 "Cover Songs",
-"For Other Artists"
+"Other Artists"
 ];
 
 // Number of columns in the selection list.
@@ -313,7 +313,7 @@ var ary_SongData = [
 [1, "Yasashii Higeki", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "Yasashii Higeki.png", "2iADpPM3L3M", "FUCK THE BORDERLINE", "Kuroyume cover", "Original by Kuroyume", 0, 0],
 	
 		
-//For Other Artists
+//Other Artists
 [1, "Amagami", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Amagami.png", "7WQ9xnsv9kA", "Sweet Bite", "Kuzuha", "written for Kuzuha (NIJISANJI)", 0, 0],
 [1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "ASH.png", "nv9lr6pOeOQ", "ASH", "LiSA", "written for LiSA; Fate/Apocrypha Opening 2", 0, 1],
 [1, "Gin no Yuri", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Gin no Yuri.png", "0kNOdsYCDgQ", "Gin no Yuri", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
