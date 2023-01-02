@@ -4,25 +4,25 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel="shortcut icon" href="src/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="src/favicon.ico" type="image/x-icon">
-	<meta name="author" content="mewsdale">
-	<meta name="description" content="Sorter for Enemble Stars!! songs. Pick your units, and hit the Start button.">
-	<meta name="keywords" content="enstars song sorting ensemble stars">
+	<meta name="author" content="viviisms">
+	<meta name="description" content="Sorter for SID Stars!! songs. Pick your sources, and hit the Start button.">
+	<meta name="keywords" content="sid song sorting">
 	<meta name="generator" content="notepad">
 
-	<meta property="og:title" content="Enstars!! Song Sorting">
+	<meta property="og:title" content="SID Song Sorting">
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="https://i.imgur.com/jBirDU6.png">
-	<meta property="og:url" content="https://enstarssorter.netlify.app/">
-	<meta property="og:description" content="Sorter for Enemble Stars!! songs. Pick your units, and hit the Start button.">
+	<meta property="og:image" content="https://i.imgur.com/YDIay62.png">
+	<meta property="og:url" content="https://sid-song-sorter.netlify.app">
+	<meta property="og:description" content="Sorter for SID songs. Pick your sources, and hit the Start button.">
 	
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:site" content="https://enstarssorter.netlify.app/">
-	<meta name="twitter:creator" content="mewsdale">
-	<meta name="twitter:title" content="Enstars!! Song Sorting">
-	<meta name="twitter:description" content="Sorter for Ensemble Stars!! songs. Pick your units, and hit the Start button.">
-	<meta name="twitter:image" content="https://i.imgur.com/jBirDU6.png">
+	<meta name="twitter:site" content="https://sid-song-sorter.netlify.app">
+	<meta name="twitter:creator" content="viviisms">
+	<meta name="twitter:title" content="SID Song Sorting">
+	<meta name="twitter:description" content="Sorter for SID songs. Pick your sources, and hit the Start button.">
+	<meta name="twitter:image" content="https://i.imgur.com/YDIay62.png">
 
-	<title>Enstars!! Song Sorter</title>
+	<title>SID Song Sorter</title>
 
 	<noscript></noscript>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.js"></script>
@@ -52,7 +52,7 @@
 				<tr>
 					<td id="fldLeft" onclick="fnc_Sort(-1);" rowspan="2"><img src="images/mao.png" title="Left"></td>
 					<td style="border: 0; width: 7px;"></td>
-					<td id="fldMiddleT" onclick="fnc_Sort(0);"><p>Enstars!!</p><p>Song Sort</p></td>
+					<td id="fldMiddleT" onclick="fnc_Sort(0);"><p>SID</p><p>Song Sort</p></td>
 					<td style="border: 0; width: 7px;"></td>
 					<td id="fldRight" onclick="fnc_Sort(1);" rowspan="2"><img src="images/ritsu.png" title="Right"></td>
 				</tr>
@@ -62,11 +62,11 @@
 					<td style="border: 0; width: 7px;"></td>
 				</tr>
 				<tr>
-					<td id="texLeft" onclick="fnc_Sort(-1);" rowspan="2"><span id="nameLeft">Song here!</span><br><span id="gameLeft">Unit name!</span><br><br><span id="detailLeft">This song's description!</span></td>
+					<td id="texLeft" onclick="fnc_Sort(-1);" rowspan="2"><span id="nameLeft">Song here!</span><br><span id="gameLeft">Album name!</span><br><br><span id="detailLeft">This song's description!</span></td>
 					<td style="border: 0; width: 7px;"></td>
 					<td id="fldMiddleS" onclick="fnc_Save();">Save Progress</td>
 					<td style="border: 0; width: 7px;"></td>
-					<td id="texRight" onclick="fnc_Sort(1);" rowspan="2"><span id="nameRight">Another song here!</span><br><span id="gameRight">Unit name!</span><br><br><span id="detailRight">The other song's description!</span></td>
+					<td id="texRight" onclick="fnc_Sort(1);" rowspan="2"><span id="nameRight">Another song here!</span><br><span id="gameRight">Album name!</span><br><br><span id="detailRight">The other song's description!</span></td>
 				</tr>
 				<tr>
 					<td style="border: 0; width: 7px;"></td>
@@ -114,7 +114,7 @@
 	<div id="ranTable" class="tb" style="display:none;">
 		<form>
 			<input value="Raw Text Results" onclick="OpenWnd()" type="button">
-			<!-- <input value="Switch Display Type" onclick="fnc_ShowData()" type="button"> /-->
+			<input value="Switch Display Type" onclick="fnc_ShowData()" type="button">
 			<p class="screenshot-info">Full screenshot: Firefox: Press Shift+F2, type in "screenshot --fullpage filename.png".
 			<br>Chrome: Use the Screen Capture extension from the Chrome extensions webstore.</p>
 		</form>
@@ -122,19 +122,10 @@
 
 	<div class="bottom-text" id="resultField">
 		<p>
-			Latest Update - 22th August 2022 - Songs up to Coruscate Breeze added, minor fixes.
-			<br><br>
-			If any songs are missing, please press CTRL+F5 first before reporting!<br>
-			<br>
-			This is a sorter for Enstars!! songs. Pick your units, and hit the Start button.<br>
+			This is a sorter for SID songs. Pick your sources, and hit the Start button.<br>
 			Click on the song you like better from the two, or tie them if you like them equally or don't know them.<br>
 			<br>
 			If you pick a lot of units expect it to take a long time, especially if you don't use many ties.<br>
-			<br>
-			
-			If there are any issues, such as missing videos, you can:<br>
-			- check out the <a href="https://github.com/mewsdale/song-sorter" target="_blank">github</a><br>
-			- contact me at <a href="https://twitter.com/ki__kirin">@ki__kirin</a> on twitter
 		</p>
 	</div>
 </body>
