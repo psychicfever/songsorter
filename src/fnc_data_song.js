@@ -197,54 +197,37 @@ var ary_SongData = [
 [1, "Teion", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "XJSJ0eJirvk", "NOMAD", "NOMAD", "", 0, 0],
 [1, "XYZ", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "OceL3uiOwFo", "NOMAD", "NOMAD", "", 0, 0],
 	
-
-//mam
-[1, "Blooming World", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "0NEx1Q4ihIo", "MaM", "MaM", "", 0, 0],
-[1, "Festive!", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "q5VjrIkitwc", "MaM", "MaM", "", 0, 0],
-[1, "Kimi Shirushi Be Ambitious!!", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "P_u-kx8r5fc", "MaM", "MaM", "", 0, 0],
-[1, "RevolTrad ~Ishin-Denshin~", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "hl3XFqHeNGI", "MaM", "MaM", "with AKATSUKI", 0, 0],
-[1, "See You Again", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "_3T1f9FI2l4", "MaM", "MaM", "Madara solo", 0, 1],
-[1, "Tsujikaze ni Fukarete", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es1-a-ma.png", "SD8Z4nYnrBI", "MaM", "MaM", "with Team Ushiwakamaru", 0, 0],
-[1, "Yukai Tsuukai That's Alright!", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es-an-ed5.png", "70fY0myPTCQ", "MaM", "MaM", "", 0, 0],
-[1, "Handcraft", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "es2-s2-ma.png", "70fY0myPTCQ", "MaM", "MaM", "", 0, 0],
-
-
-//rabits
-[1, "Dream Collection", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "_GO6ALUuaAg", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "FALLIN' LOVE=IT'S WONDERLAND", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es2-s2-ra.png", "8bwAsQFJsJU", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Happy Coming＊Tea Time", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "TloPAp6-VCU", "Ra✽bits", "Ra✽bits", "Hajime solo", 0, 1],
-[1, "Higher↑ Higher↑", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "_aMEkGll1YI", "Ra✽bits", "Ra✽bits", "Tomoya solo", 0, 1],
-[1, "Hoppin' Season♪", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "3tBBT4SqCic", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Joyful×Box*", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "qjU-5sfKPV8", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Love it Love it", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es2-s1-ra.png", "PXBxOy_H5oc", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Love Ra*bits Party!!", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "e8jLv8OgAyk", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Made in Tokimeki♪", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es-an-ed2.png", "SwvX01eQIKk", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Melty♡Kitchen", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "bk_HIVTaWCg", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Milky Starry Charm", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "NF-GUbzFyQ0", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Niichan Ouen Dan☆", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "LQ0sIeRFB4Q", "Ra✽bits", "Ra✽bits", "Nazuna solo", 0, 1],
-[1, "Nousagi March♪", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "GT5j6TSD9Zg", "Ra✽bits", "Ra✽bits", "", 0, 0],
-[1, "Start♪ Dash Dash!", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es1-a-ra.png", "t8R214cBHkc", "Ra✽bits", "Ra✽bits", "Mitsuru solo", 0, 1],
-[1, "Usagi no Mori no Ongakkai", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "es2-s2-ra.png", "e3bczktZqq4", "Ra✽bits", "Ra✽bits", "", 0, 0],
-
-
-//ryuseitai
-[1, "ALWAYS HERO!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "lXVnN8l3fLs", "RYUSEITAI", "RYUSEITAI", "Chiaki solo", 0, 1],
-[1, "Goshoku no Shooting☆Star!!!!!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "oIW0mfNGHtU", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "GROWING STARRY DAYS", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "ism_onkGGjA", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Heart Heat Beat", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es2-s2-ry.png", "oMJPsHduvzw", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "IRON HEART TIGER!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "tUiH_NJTsSw", "RYUSEITAI", "RYUSEITAI", "Tetora solo", 0, 1],
-[1, "Mahiru no Zanzou", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "Cgh1q5hoDeA", "RYUSEITAI", "RYUSEITAI", "Midori solo", 0, 1],
-[1, "Marine Blue Rendezvous", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "Ic4vCJxFWwQ", "RYUSEITAI", "RYUSEITAI", "Kanata solo", 0, 1],
-[1, "Meteor Scramble☆RYUSEITAI", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es-an-ed4.png", "OcdYXjpDGOM", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Nekketsu☆Ryusei Ninpouchou", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es2-s2-ry.png", "5S55fL7EkNU", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Ryuusei Hanabi", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "QFWFl3w4zGA", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Shippuu Jinrai Shinobi Michi", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "G_Bffpoc_qU", "RYUSEITAI", "RYUSEITAI", "Shinobu solo", 0, 1],
-[1, "Suisei HALATION", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es2-s1-ry.png", "RJfaCabzU1s", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "SUPER NOVA REVOLU5TAR", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "H3CYvlqEeec", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Tenka Muteki☆Meteoranger!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "O5l9yRTcvbk", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Unlimited☆Power!!!!!", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "YS4IkIrIDrI", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-[1, "Yumenosaki Ryuuseitai Uta", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "es1-a-ry.png", "u2BW406dh6Q", "RYUSEITAI", "RYUSEITAI", "", 0, 0],
-
+//Ichiban Suki na Basho
+[1, "Ichiban Suki na Basho", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "ZhF60NfXpKo", "Ichiban Suki na Basho", "Ichiban Suki na Basho", "", 0, 0],
+[1, "reverb", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "YLXPwAyUpps", "Ichiban Suki na Basho", "Ichiban Suki na Basho", "", 0, 0],
+[1, "Rubber Sole", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "-rjMYBu-XsQ", "Ichiban Suki na Basho", "Ichiban Suki na Basho", "", 0, 0],
+[1, "Sono Mirai e", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "4VE4PH9OtrI", "Ichiban Suki na Basho", "Ichiban Suki na Basho", "", 0, 0],
+[1, "VOICE", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "xUufOAE11_0", "Ichiban Suki na Basho", "Ichiban Suki na Basho", "", 0, 0],
+	
+//Shounin Yokkyu
+[1, "Awai Ashiato", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "3jRDnm1CoIA", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Blood Vessel", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "9A7HLX47NWE", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Deai=Kiseki", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "R84YwSkP9uU", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Kimiiro no Asa", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "hIZG1WkkFPM", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Namida Ame", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "h7FDNgRJo4E", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Positive no Mahou", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "BsMsqMyGG2Q", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "see through", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "fgVcEZcHKmY", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Shounin Yokkyu", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "zhbvYB3lrjE", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Te", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "k9d2L8GtK6k", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Trick", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "K3xCR8_0o2I", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+	
+//Umibe
+[1, "Daisuki Dakara...", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "-Y8VqWE2SQw", "Umibe", "Umibe", "", 0, 0],
+[1, "Damashi Ai", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "yXIqIbatBQg", "Umibe", "Umibe", "", 0, 0],
+[1, "Ekitai", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "jyMgQ8di06I", "Umibe", "Umibe", "", 0, 0],
+[1, "Gairoju", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "ke3esJtAWAQ", "Umibe", "Umibe", "", 0, 0],
+[1, "Jiu no Kuchizuke", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Jiu no Kuchizuke.png", "hV0Po_nXR7k", "Jiu no Kuchizuke", "Umibe", "Tian Guan Ci Fu Japanese Opening", 0, 1],
+[1, "Juusangatsu", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "zzBYjD0uyNo", "Umibe", "Umibe", "", 0, 0],
+[1, "Keibetsu", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "oiyWzm13U84", "Umibe", "Umibe", "", 0, 0],
+[1, "Shiroi Koe", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "904YqMcMjqs", "Umibe", "Umibe", "", 0, 0],
+[1, "Umibe", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "agy_CqAI_I4", "Umibe", "Umibe", "", 0, 0],
+[1, "Yureru Natsufuku", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "1kx4o66vg48", "Umibe", "Umibe", "", 0, 0],
+	
 
 //switch
 [1, "Bluebird Humming♪", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "es1-a-sw.png", "4O_k-Y39nCc", "Switch", "Switch", "Tsumugi solo", 0, 1],
