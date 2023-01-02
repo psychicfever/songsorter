@@ -247,55 +247,42 @@ var ary_SongData = [
 [1, "Star Forest", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "Star Forest.png", "jhWle6ItxZ4", "Star Forest", "Star Forest", "", 0, 0],
 	
 
-//valkyrie
-[1, "Acanthe", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es2-s2-va.png", "wFr4jJiKon8", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Cloth Waltz", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "GMVJzDDMBi0", "Valkyrie", "Valkyrie", "Shu solo", 0, 1],
-[1, "Eternal Weaving", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es2-s1-va.png", "fHueDPXGZX8", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Gaisenka", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es-an-ed5.png", "oFCruJ5LkLE", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Kohaku to Ruri no Rondo", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "8aOpjI_dYeQ", "Valkyrie", "Valkyrie", "Mika solo", 0, 1],
-[1, "Koyoi Tsuki no Yakata ni te", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "e8m9yS64JU8", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Last Lament", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "XqL9prFUGa8", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Miwaku Geki", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "YjGg-sqc4Pg", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Mémoire Antique", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "DJod-TV2daA", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Raisanka", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "tRbAZqEq2OU", "Valkyrie", "Valkyrie", "", 0, 0],
-[1, "Sajou no Roukaku", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "nOQ9jwhGxTk", "Valkyrie", "Valkyrie", "Past Valkyrie", 0, 0],
-[1, "Sei Shounen Yuugi", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es1-a-va.png", "CTvcZO6u_2M", "Valkyrie", "Valkyrie", "Past Valkyrie", 0, 0],
-[1, "Uruwashi no Nightingale", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "es2-s2-va.png", "iu5UOufN4XU", "Valkyrie", "Valkyrie", "", 0, 0],
-
-
-//temp units
-[1, "Aisle, be with you", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-su-2.png", "cvZ-Tcl99Dk", "Ring.A.Bell", "Ring.A.Bell", "", 0, 0],
-[1, "Crush of Judgment", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es1-a-kn.png", "HBh-AddJRrY", "Knights Killers", "Knights Killers", "", 0, 0],
-[1, "Date Plan A to Z", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-su-1.png", "28tiTBvFv58", "√AtoZ", "√AtoZ", "", 0, 0],
-[1, "Death Game Holic", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es1-a-ud.png", "aP0Pjtz2PPY", "DEADMANZ", "DEADMANZ", "", 0, 0],
-[1, "Eccentric Party Night", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es1-a-sw.png", "rD6hPujfm4o", "Oddballs", "Oddballs", "", 0, 0],
-[1, "Endless Vide", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-fs.png", "5EU_cmTI-nk", "Fraternity", "Fraternity", "", 0, 0],
-[1, "Life is so Dramatic!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-s10.png", "DjIIjxLv0T8", "SCREEN10", "SCREEN10", "", 0, 0],
-[1, "Midnight Butlers", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-su-1.png", "6NoxNRXpmgo", "XXVeil", "XXVeil", "", 0, 0],
-[1, "Moonlight Disco", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-su-2.png", "biCFdIqQtc0", "Getto Spectacle", "Getto Spectacle", "", 0, 0],
-[1, "Noir Neige", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-su-2.png", "VAKVSaz28Ao", "La Mort", "La Mort", "", 0, 0],
-[1, "Sweet Sweet White Song", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "es2-su-1.png", "lOqdUV0yPJI", "Branco", "Branco", "", 0, 0],
-[1, "Paradigm Reversi!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "nopic.png", "9vWEuwdc5-I", "Puffy☆Bunny", "Puffy☆Bunny", "", 0, 0],
-
-//fusion
-[1, "Artistic Partisan", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fu-3.png", "O-JxfEwOafM", "ALKALOID & Valkyrie", "ALKALOID & Valkyrie", "Fusion", 0, 0],
-[1, "Crossing×Heart", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fu-4.png", "YzsH9iSka60", "Trickstar & fine", "Trickstar & fine", "Fusion", 0, 0],
-[1, "LEMON SQUASH CHEERS! ", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fu-7.png", "z9N2IZQJtIc", "Crazy:B & 2wink", "Crazy:B & 2wink", "Fusion", 0, 0],
-[1, "Majestic Magic", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fu-1.png", "JD6oLMTh298", "Switch & Eden", "Switch & Eden", "Fusion", 0, 0],
-[1, "PERFECTLY-IMPERFECT", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fu-5.png", "eXcCTzLwsnY", "UNDEAD & AKATSUKI", "UNDEAD & AKATSUKI", "Fusion", 0, 0],
-[1, "Pocket ni Uchuu", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fu-2.png", "B9Tm26HdOKk", "Ra✽bits & Double Face", "Ra✽bits & Double Face", "Fusion", 0, 0],
-[1, "Seishun Emergency", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "es2-fu-6.png", "fghQp0tpITo", "RYUSEITAI & Knights", "RYUSEITAI & Knights", "Fusion", 0, 0],
-
-
-//ensemble/various
-[1, "Kiseki", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es-an-op2.png", "Vi4W5PaBxGQ", "Trickstar / Eden", "Trickstar / Eden", "Anime OP2", 0, 0],
-[1, "BRAND NEW STARS!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-bns.png", "K1092eLmbko", "ES All Stars", "ES All Stars", "", 0, 0],
-[1, "FUSIONIC STARS!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-fs.png", "hG3dwZPeNjE", "Various", "Various", "", 0, 0],
-[1, "Stars' Ensemble!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es-an-op.png", "4AgK2k-8w9Y", "ES All Stars", "ES All Stars", "Anime OP", 0, 0],
-[1, "Walk with your smile", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-wwys.png", "UxkL5M07QXQ", "Various", "Various", "", 0, 0],
-[1, "Surprising Thanks!!", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "es2-st.png", "rHFPG5GWwQI", "Various", "Various", "", 0, 0],
-
-//covers
-[1, "U.S.A.", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es2-co-usa.png", "uwgpvBFi28E", "Crazy:B & UNDEAD", "Crazy:B & UNDEAD", "", 0, 0],
-[1, "Hamutaro Tottokouta", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "es2-co-ham.png", "Ov0MOaRTv8g", "Ra✽bits & RYUSEITAI", "Ra✽bits & RYUSEITAI", "", 0, 0]
+//Side B complete collection 〜e.B〜
+[1, "Aoi Renga", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "chapter 1.png", "JtxG1-lPJGU", "chapter 1", "Side B 1", "", 0, 0],
+[1, "Boku, Dinner", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "Sweet.png", "ptjg182C1WE", "Sweet?", "Side B 1", "", 0, 0],
+[1, "Chiisana Shiawase", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "Mitsuyubi.png", "irVJZ7zpYgw", "Mitsuyubi", "Side B 1", "", 0, 0],
+[1, "dummy", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "Hosoikoe.png", "j-mqqOMgMRs", "Hosoikoe", "Side B 1", "", 0, 0],
+[1, "Hanabira", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0], "smile.png", "k1vYhPUabdg", "smile", "Side B 1", "", 0, 0],
+[1, "Keirei Boy", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "Namida no Ondo.png", "WmufSQtWLaw", "Namida no Ondo", "Side B 1", "", 0, 0],
+[1, "life", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "Otegami.png", "vSkKyO3u5GM", "Otegami", "Side B 1", "", 0, 0],
+[1, "Memai", [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0], "Side B complete collection 〜e.B〜.png", "jDgjn3nV2wo", "Side B complete collection 〜e.B〜", "Side B 1", "", 0, 0],
+[1, "Propose", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "Natsukoi.png", "PygBOMelwZY", "Natsukoi", "Side B 1", "", 0, 0],
+[1, "Re:Dreamer", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "paint pops.png", "n918aC65y9o", "paint pops", "Side B 1", "", 0, 0],
+	
+//Side B complete collection 〜e.B 2〜/Side B complete collection 〜e.B 4〜
+[1, "CELEBRITY", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0], "Side B complete collection 〜e.B 2〜.png", "IVlqnWcCTOo", "Side B complete collection 〜e.B 2〜", "Side B 2", "", 0, 0],
+[1, "cut", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0], "Rain.png", "jXSOBeJrNXs", "Rain", "Side B 2", "", 0, 0],
+[1, "Danro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0], "Ranbu no Melody.png", "53xU1UVI62A", "Ranbu no Melody", "Side B 2", "", 0, 0],
+[1, "Higasa", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0], "Uso.png", "gAt8t2910gg", "Uso", "Side B 2", "", 0, 0],
+[1, "Kaitou Neon", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0], "one way.png", "qeNum-vbWD4", "one way", "Side B 2", "", 0, 0],
+[1, "Rainy Day", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0], "S.png", "laM4v2do84E", "S", "Side B 2", "", 0, 0],
+[1, "season", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0], "Monochrome no Kiss.png", "CAf7Ry3JUl4", "Monochrome no Kiss", "Side B 2", "", 0, 0],
+[1, "Soumatou", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0], "V.I.P.png", "bdE6FskAiIs", "V.I.P", "Side B 2", "", 0, 0],
+	
+//Side B complete collection 〜e.B 3〜/Side B complete collection 〜e.B 4〜
+[1, "Akikaze", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "Itsuka.png", "uMgQD9FjcZY", "Itsuka", "Side B 3", "", 0, 0],
+[1, "Graduation", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "Nokoriga.png", "IExZrH499wA", "Nokoriga", "Side B 3", "", 0, 0],
+[1, "Otori", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "Fuyu no Bench.png", "5nu-eoIqSng", "Fuyu no Bench", "Side B 3", "", 0, 0],
+[1, "SENSE", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0], "Side B complete collection 〜e.B 3〜.png", "RGg1lwlSpk", "Side B complete collection 〜e.B 3〜", "Side B 3", "", 0, 0],
+[1, "Sugu Soba de", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "cosmetic.png", "x40NxBYQoks", "cosmetic", "Side B 3", "", 0, 0],
+[1, "Utahime", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "sleep.png", "AtxGdZZWkl8", "sleep", "Side B 3", "", 0, 0],
+[1, "Zetsubou no Hata", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0], "Koi ni Ochite.png", "iyBbNIY98do", "Koi ni Ochite", "Side B 3", "", 0, 0],
+	
+//Side B complete collection 〜e.B 5〜
+[1, "Chiisana Tsubasa", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "Garasu no Hitomi.png", "nknQ7te4YAk", "Garasu no Hitomi", "Side B 5", "", 0, 0],
+[1, "Kagee", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "ENAMEL.png", "jiO6eIh0pYA", "ENAMEL", "Side B 5", "", 0, 0],
+[1, "Shoukyakuro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "SA-MA-LA-VA.png", "MIJ8o_p4CWM", "SA-MA-LA-VA", "Side B 5", "", 0, 0],
+[1, "Suna no Shiro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "ANNIVERSARY.png", "C2drKn5oJYo", "ANNIVERSARY", "Side B 5", "", 0, 0],
+[1, "Unmei no Hito", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "Hyouryuu.png", "OQMoTxohyZY", "Hyouryuu", "Side B 5", "", 0, 0],
+	
 ];
