@@ -92,24 +92,18 @@ var ary_SongData = [
 [1, "Virtual Bansankai", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "srXskRyAAas", "Renai", "Renai", "", 0, 0],
 [1, "Watashi wa Ame", [1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "5k5OXVsCBS0", "Renai", "Renai", "", 0, 0],
 	
-
-//akatsuki
-[1, "Akaneji no Kaikou", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "gATqxMLLsAM", "AKATSUKI", "AKATSUKI", "Keito solo", 0, 1],
-[1, "Akatsuki Iroha Uta", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s1-ak.png", "oSN4uJArSCE", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Crimson Soul", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "T0_pEo2Wcgo", "AKATSUKI", "AKATSUKI", "Kuro solo", 0, 1],
-[1, "Gekka Musou, Kurenai no Mai", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es-an-ed2.png", "oSN4uJArSCE", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Gekkou Kitan", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-ak.png", "aQlc29mHH0k", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Hana Akari no Koibumi", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "cnHo-32mb5A", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Hyakka Ryouran, Akatsukiyo", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "syWefpQOoLw", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Kengeki no Mai", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "ncNKaYysDXU", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Matsuriyo Emaki", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "we2mA4pghKA", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Omoide Tsuzuri", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "30bAxnYMeSk", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Ouka Kenran Seishunka", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "Sl_-1Pp2aGM", "AKATSUKI", "AKATSUKI", "Souma solo", 0, 1],
-[1, "Usubeniiro no Yakusoku", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "me--Ejznn2g", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Yozora, Saritote Kasasagi wa", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-ak.png", "oSN4uJArSCE", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Zan -Ketsui no Yaiba-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es1-a-ak.png", "CuAIFTp7bEs", "AKATSUKI", "AKATSUKI", "", 0, 0],
-[1, "Natsudori no Uta -Summer Bird-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s3-ak.png", "xU_bmCaniFA", "AKATSUKI", "AKATSUKI", "", 0, 0],
-
+//Hoshi no Miyako
+[1, "Aikagi -unplugged ver.-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "ZaNuUH7anU8", "Hoshi no Miyako", "Hoshi no Miyako", "", 1, 0],
+[1, "Alibi", [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "gpxyLpwRrsk", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Binetsu", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "QjFhwBNWb5c", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Caramel", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "Q2-CWVDUJAg", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Hoshi no Miyako", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "eya9viB-v8s", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Izon no Niwa", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "p0ezADwaLVM", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Ringo Ame", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "9pLCa7ZbQ78", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Sono Daisho", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "l-_Eqrp-LLs", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Sweet?", [0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Sweet.png", "9llwW5E5tHI", "Sweet?", "Hoshi no Miyako", "", 0, 0],
+[1, "Toge to Neko", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "xDPFAzrjdvU", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "Yell", [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "u_CIUuRlwFo", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
 
 //alkaloid
 [1, "Believe 4 leaves", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "es2-s2-al.png", "6hM-srwfgvY", "ALKALOID", "ALKALOID", "", 0, 0],
