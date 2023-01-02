@@ -36,7 +36,7 @@ var ary_TitleData = [
 "SID ALL SINGLES BEST",
 "SID Anime Best 2008-2017",
 "Side A complete collection",
-"Side B complete collection 〜e.B〜",
+"Side B complete collection ~e.B~",
 "Side B complete collection 〜e.B 2〜",
 "Side B complete collection 〜e.B 3〜",
 "Side B complete collection 〜e.B 4〜",
