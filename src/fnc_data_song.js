@@ -237,7 +237,7 @@ var ary_SongData = [
 [1, "Yumegokochi", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0], "SID ALL SINGLES BEST.png", "rfFRMwZ9BxI", "SID ALL SINGLES BEST", "SID ALL SINGLES BEST", "", 0, 0],
 	
 //SID Anime Best 2008-2017
-[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0], "SID Anime Best 2008-2017.png", "2PyRemO9sAw", "SID Anime Best 2008-2017", "Anime Best", "Self-cover of LiSA's ASH", 1, 1],
+[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0], "SID Anime Best 2008-2017.png", "TaeUco6mL-g", "SID Anime Best 2008-2017", "Anime Best", "Self-cover of LiSA's ASH", 1, 1],
 	
 //Side A complete collection
 [1, "delete", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "delete.png", "zNk8xw0AwPk", "delete", "", "The Seven Deadly Sins: Wrath of The Gods Opening 2", 0, 1],
