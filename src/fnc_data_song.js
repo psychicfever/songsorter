@@ -303,6 +303,7 @@ var ary_SongData = [
 [1, "Legendary", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "Legendary.png", "TerPRtycOX0", "Legendary", "Concert theme", "15th anniversary tour grand final theme", 0, 0],
 [1, "Prologue of NOMAD", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "Prologue of NOMAD.png", "PfsWZqMmT7w", "Prologue of NOMAD", "Concert theme", "NOMAD tour theme", 0, 0],
 [1, "residence", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "residence.png", "HI5CKtHoPQw", "residence", "Concert theme", "2021 live tour theme", 0, 0],
+[1, "Prologue 〜Umibe〜", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "Prologue 〜Umibe〜.PNG", "y534F9oExbc", "Prologue 〜Umibe〜", "Concert theme", "Umibe tour theme", 0, 0],
 	
 		
 //Cover Songs
