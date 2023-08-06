@@ -135,7 +135,7 @@ var ary_SongData = [
 //hikari
 [1, "capsule", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "YR0zbHb5Fik", "hikari", "hikari", "", 0, 0],
 [1, "Circus", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00], "hikari.png", "aVpc43QXI8I", "hikari", "hikari", "", 0, 0],
-[1, "Drama", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "hikari.png", "HJ0wFctCtoY", "hikari", "hikari", "Fullmetal Alchemist: Prince of the Dawn Opening", 0, 1],
+[1, "Drama", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "hikari.png", "Hh5XHN8ov4o", "hikari", "hikari", "Fullmetal Alchemist: Prince of the Dawn Opening", 0, 1],
 [1, "Hikari", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "fkdaJPzbw6k", "hikari", "hikari", "", 0, 0],
 [1, "Monochrome no Kiss", [0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0], "Monochrome no Kiss.png", "L3gvc189xd0", "Monochrome no Kiss", "", "Black Butler Opening 1", 0, 1],
 [1, "Mousou Nikki 2", [0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "NhZs1mC_r5o", "hikari", "hikari", "", 0, 0],
@@ -188,7 +188,7 @@ var ary_SongData = [
 //NOMAD
 [1, "Butterfly Effect", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Butterfly Effect.png", "3ulJz9M1Qak", "Butterfly Effect", "", "", 0, 0],
 [1, "Futsuu no Kiseki", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "5mICnWLsd-w", "NOMAD", "NOMAD", "", 0, 0],
-[1, "Garasu no Hitomi", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "Garasu no Hitomi.png", "2JsxMStAtEw", "Garasu no Hitomi", "", "Black Butler: Book of the Atlantic Opening", 0, 1],
+[1, "Garasu no Hitomi", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "Garasu no Hitomi.png", "i-3MOsti0DY", "Garasu no Hitomi", "", "Black Butler: Book of the Atlantic Opening", 0, 1],
 [1, "KILL TIME", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "4SLWSlC74fo", "NOMAD", "NOMAD", "", 0, 0],
 [1, "NOMAD", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "NOMAD.png", "Yy7nsQxeyVA", "NOMAD", "NOMAD", "", 0, 0],
 [1, "Rasen no Yume", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "Rasen no Yume.png", "Kw4QmPEzxW0", "Rasen no Yume", "", "Altair: A Record of Battles Opening 1", 0, 1],
@@ -230,7 +230,7 @@ var ary_SongData = [
 	
 	
 //SID ALL SINGLES BEST
-[1, "ENAMEL", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0], "ENAMEL.png", "vDK02xlB47k", "ENAMEL", "", "Black Butler: Book of Circus Opening", 0, 1],
+[1, "ENAMEL", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0], "ENAMEL.png", "4C2AC0iH8Kc", "ENAMEL", "", "Black Butler: Book of Circus Opening", 0, 1],
 [1, "Hyouryuu", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0], "Hyouryuu.png", "hPOyu8jUses", "Hyouryuu", "", "", 0, 0],
 [1, "Ranbu no Melody", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0], "Ranbu no Melody.png", "MSG4p7rMyn4", "Ranbu no Melody", "", "Bleach Opening 13", 0, 1],
 [1, "White tree", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0], "White tree.png", "1Myel3o2w0s", "White tree", "", "", 0, 0],
