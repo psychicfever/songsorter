@@ -42,7 +42,7 @@
 		<table id="mainTable">
 			<thead>
 				<tr>
-					<td colspan="5" class="tb_header">Battle No. <span id="lblCount">-</span><br>
+					<td colspan="5" class="tb_header">Choice No. <span id="lblCount">-</span><br>
 						<div id="GaGprog"><div id="progressText"><span id="lblProgress">0</span>% sorted.</div></div>
 					</td>
 				</tr>
@@ -50,11 +50,11 @@
 
 			<tbody>
 				<tr>
-					<td id="fldLeft" onclick="fnc_Sort(-1);" rowspan="2"><img src="images/Mao.png" title="Left"></td>
+					<td id="fldLeft" onclick="fnc_Sort(-1);" rowspan="2"><img src="images/ren.png" title="Left"></td>
 					<td style="border: 0; width: 7px;"></td>
 					<td id="fldMiddleT" onclick="fnc_Sort(0);"><p>SID (シド) </p><p>Song Sort</p></td>
 					<td style="border: 0; width: 7px;"></td>
-					<td id="fldRight" onclick="fnc_Sort(1);" rowspan="2"><img src="images/Aki.png" title="Right"></td>
+					<td id="fldRight" onclick="fnc_Sort(1);" rowspan="2"><img src="images/kokoro.png" title="Right"></td>
 				</tr>
 				<tr>
 					<td style="border: 0; width: 7px;"></td>
@@ -62,11 +62,11 @@
 					<td style="border: 0; width: 7px;"></td>
 				</tr>
 				<tr>
-					<td id="texLeft" onclick="fnc_Sort(-1);" rowspan="2"><span id="nameLeft">Song here!</span><br><span id="gameLeft">Album name!</span><br><br><span id="detailLeft">This song's description!</span></td>
+					<td id="texLeft" onclick="fnc_Sort(-1);" rowspan="2"><span id="nameLeft">Song here!</span><br><span id="gameLeft">Album name!</span><br><br><span id="detailLeft"> </span></td>
 					<td style="border: 0; width: 7px;"></td>
 					<td id="fldMiddleS" onclick="fnc_Save();">Save Progress</td>
 					<td style="border: 0; width: 7px;"></td>
-					<td id="texRight" onclick="fnc_Sort(1);" rowspan="2"><span id="nameRight">Another song here!</span><br><span id="gameRight">Album name!</span><br><br><span id="detailRight">The other song's description!</span></td>
+					<td id="texRight" onclick="fnc_Sort(1);" rowspan="2"><span id="nameRight">Another song here!</span><br><span id="gameRight">Album name!</span><br><br><span id="detailRight"> </span></td>
 				</tr>
 				<tr>
 					<td style="border: 0; width: 7px;"></td>
@@ -82,13 +82,18 @@
 			<tfoot>
 				<tr>
 					<td colspan="5"><div class="center">
+						<p> After making your last choice, SCROLL DOWN to see your results.
+						</p>
+				</tr>
+				<tr>
+					<td colspan="5"><div class="center">
 						<input id="optImage" checked="checked" type="checkbox">
 						<span class="tb_lower"><label for="optImage">Embed videos while sorting</label> (warning: may be slow on some computers!)</span></div></td>
 				</tr>
 				<tr>
 					<td colspan="5"><div class="center">
 						<input id="optArrange" checked="checked" type="checkbox">
-						<span class="tb_lower"><label for="optArrange">Include arranges</label> (uncheck to only include original songs).</span></div></td>
+						<span class="tb_lower"><label for="optArrange">IDK</label> how to get rid of this without breaking the code lmao.</span></div></td>
 				</tr>
 				<tr>
 					<td colspan="5">
