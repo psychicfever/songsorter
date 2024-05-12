@@ -79,77 +79,63 @@ const TRACK_TYPE = 9;
 
 var ary_SongData = [
 //Renai
-[1, "hotline", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "PQY8b94BqKc", "Renai", "Renai", "", 0, 0],
-[1, "Akagami Shuffle", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "uIP-rKPCJ1M", "Renai", "Renai", "", 0, 0],
+[1, "hotline", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "PQY8b94BqKc", "Renai", "Renai", "", 0, 0],
+[1, "Akagami Shuffle", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "uIP-rKPCJ1M", "Renai", "Renai", "", 0, 0],
 	
 //Hoshi no Miyako
-[1, "Aikagi -unplugged ver.-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "ZaNuUH7anU8", "Hoshi no Miyako", "Hoshi no Miyako", "", 1, 0],
+[1, "Aikagi -unplugged ver.-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "ZaNuUH7anU8", "Hoshi no Miyako", "Hoshi no Miyako", "", 1, 0],
 
 //play
-[1, "chapter 1", [0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "chapter 1.png", "545F9DRWccM", "chapter 1", "", "", 0, 0],
+[1, "chapter 1", [0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "chapter 1.png", "545F9DRWccM", "chapter 1", "", "", 0, 0],
 	
 //Sentimental Macchiato
-[1, "and boyfriend", [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "TJOsuADKwn0", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "and boyfriend", [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "TJOsuADKwn0", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
 
 //hikari
-[1, "capsule", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "YR0zbHb5Fik", "hikari", "hikari", "", 0, 0],
+[1, "capsule", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "YR0zbHb5Fik", "hikari", "hikari", "", 0, 0],
 	
 //dead stock
-[1, "cosmetic",	[0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "cosmetic.png", "Q3lzZoGd6z0", "cosmetic", "", "", 0, 0],
+[1, "cosmetic",	[0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "cosmetic.png", "Q3lzZoGd6z0", "cosmetic", "", "", 0, 0],
 	
 //M&W
-[1, "Café de Bossa", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "M&W.png", "IUy1gOWaceo", "M&W", "M&W", "", 0, 0],
+[1, "Café de Bossa", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "M&W.png", "IUy1gOWaceo", "M&W", "M&W", "", 0, 0],
 
 //OUTSIDER
-[1, "Akaite", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "ER2Rm73wgqI", "OUTSIDER", "OUTSIDER", "", 0, 0],
+[1, "Akaite", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "ER2Rm73wgqI", "OUTSIDER", "OUTSIDER", "", 0, 0],
 
 //NOMAD
-[1, "Butterfly Effect", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Butterfly Effect.png", "3ulJz9M1Qak", "Butterfly Effect", "", "", 0, 0],
+[1, "Butterfly Effect", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Butterfly Effect.png", "3ulJz9M1Qak", "Butterfly Effect", "", "", 0, 0],
 	
 //Ichiban Suki na Basho
-[1, "Ichiban Suki na Basho", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "ZhF60NfXpKo", "Ichiban Suki na Basho", "", "", 0, 0],
+[1, "Ichiban Suki na Basho", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "ZhF60NfXpKo", "Ichiban Suki na Basho", "", "", 0, 0],
 	
 //Shounin Yokkyu
-[1, "Awai Ashiato", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "3jRDnm1CoIA", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
-[1, "Blood Vessel", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "9A7HLX47NWE", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Awai Ashiato", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "3jRDnm1CoIA", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
+[1, "Blood Vessel", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "9A7HLX47NWE", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
 	
 //Umibe
-[1, "Daisuki Dakara...", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "-Y8VqWE2SQw", "Umibe", "Umibe", "", 0, 0],
+[1, "Daisuki Dakara...", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "-Y8VqWE2SQw", "Umibe", "Umibe", "", 0, 0],
 	
 	
 //SID ALL SINGLES BEST
-[1, "ENAMEL", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0], "ENAMEL.png", "4C2AC0iH8Kc", "ENAMEL", "", "Black Butler: Book of Circus Opening", 0, 1],
+[1, "ENAMEL", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0], "ENAMEL.png", "4C2AC0iH8Kc", "ENAMEL", "", "Black Butler: Book of Circus Opening", 0, 1],
 	
 //SID Anime Best 2008-2017
-[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0], "SID Anime Best 2008-2017.png", "TaeUco6mL-g", "SID Anime Best 2008-2017", "Anime Best", "Self-cover of LiSA's ASH", 1, 1],
+[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0], "SID Anime Best 2008-2017.png", "TaeUco6mL-g", "SID Anime Best 2008-2017", "Anime Best", "Self-cover of LiSA's ASH", 1, 1],
 	
 //Side A complete collection
-[1, "delete", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "delete.png", "zNk8xw0AwPk", "delete", "", "The Seven Deadly Sins: Wrath of The Gods Opening 2", 0, 1],
+[1, "delete", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "delete.png", "zNk8xw0AwPk", "delete", "", "The Seven Deadly Sins: Wrath of The Gods Opening 2", 0, 1],
 	
 
 //Side B complete collection 〜e.B〜
-[1, "Aoi Renga", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "chapter 1.png", "JtxG1-lPJGU", "chapter 1", "chapter 1", "", 0, 0],
+[1, "Aoi Renga", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "chapter 1.png", "JtxG1-lPJGU", "chapter 1", "chapter 1", "", 0, 0],
 	
 //Side B complete collection 〜e.B 2〜/Side B complete collection 〜e.B 4〜
-[1, "CELEBRITY", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0], "Side B complete collection 〜e.B 2〜.png", "IVlqnWcCTOo", "Side B complete collection 〜e.B 2〜", "Side B 2", "", 0, 0],
+[1, "CELEBRITY", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0], "Side B complete collection 〜e.B 2〜.png", "IVlqnWcCTOo", "Side B complete collection 〜e.B 2〜", "Side B 2", "", 0, 0],
 
 //Side B complete collection 〜e.B 3〜/Side B complete collection 〜e.B 4〜
-[1, "Akikaze", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0], "Itsuka.png", "uMgQD9FjcZY", "Itsuka", "Itsuka", "", 0, 0],
+[1, "Akikaze", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0], "Itsuka.png", "uMgQD9FjcZY", "Itsuka", "Itsuka", "", 0, 0],
 	
 //Side B complete collection 〜e.B 5〜
-[1, "Chiisana Tsubasa", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "Garasu no Hitomi.png", "nknQ7te4YAk", "Garasu no Hitomi", "Garasu no Hitomi", "", 0, 0],
-
-	
-//Other Artists
-[1, "Amagami", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Amagami.png", "7WQ9xnsv9kA", "Sweet Bite", "Kuzuha", "written for Kuzuha (NIJISANJI)", 0, 0],
-[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "ASH.png", "nv9lr6pOeOQ", "ASH", "LiSA", "written for LiSA; Fate/Apocrypha Opening 2", 0, 1],
-[1, "Gin no Yuri", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Gin no Yuri.png", "0kNOdsYCDgQ", "Gin no Yuri", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
-[1, "histoire", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "histoire.png", "kGsd10-WEAo", "histoire", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
-[1, "Kage to Hikari", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "miroir.png", "XAX1UsoNETE", "miroir", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
-[1, "Kagen no Tsukiyo", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Kagen no Tsukiyo.png", "zRYDo73dwiA", "Kagen no Tsukiyo", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
-[1, "Kyouki no Melody", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Zakuro:Kyouki no Melody.png", "VZmh0qZkKrI", "Zakuro/Kyouki no Melody", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
-[1, "miroir", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "miroir.png", "LWKVMYu_PWA", "miroir", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0],
-[1, "Owari no Hajimari", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Owari no Hajimari.png", "jdEVhT5z1hA", "Owari no Hajimari", "Taiki", "written for Taiki", 0, 0],
-[1, "Usubeniiro no Yakusoku", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Usubeniiro no Yakusoku.png", "i4q--jr5tB0", "Ensemble Stars! Album Series PRESENT -AKATSUKI-", "AKATSUKI", "written for AKATSUKI (Ensemble Stars!)", 0, 0],
-[1, "Zakuro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Zakuro:Kyouki no Melody.png", "i8SX5nGvesI", "Zakuro/Kyouki no Melody", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0]
+[1, "Chiisana Tsubasa", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "Garasu no Hitomi.png", "nknQ7te4YAk", "Garasu no Hitomi", "Garasu no Hitomi", "", 0, 0]
 ];
