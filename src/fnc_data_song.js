@@ -60,48 +60,48 @@ const TRACK_TYPE = 9;
 
 var ary_SongData = [
 //PCF
-[1, "Hotline", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "cqYuegYYP0c", "P.C.F", "P.C.F", "", 0, 0],
-[1, "Choose One", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "55FqGc2bW3Y", "P.C.F", "P.C.F", "", 0, 0],
-[1, "Best For You", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "kQRuRCq0j2s", "P.C.F", "P.C.F", "", 0, 0],
-[1, "Tokyo Spiral", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "st_e1bJoM5A", "P.C.F", "P.C.F", "", 0, 0],
-[1, "Spread The Wings", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "CqsDUSjx9r0", "P.C.F", "P.C.F", "", 0, 0],
-[1, "Spark It Up", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "ouSrJ0KXIYU", "P.C.F", "P.C.F", "", 0, 0],
-[1, "Bitter Sweet", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "XGnkTV0proU", "P.C.F", "P.C.F", "", 0, 0],
-[1, "Snow Candy", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "oRBu9RhHcMs", "P.C.F", "P.C.F", "", 0, 0],
-[1, "PSYCHIC FEVER!!", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "clurELOmptw", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Hotline", [1,0,0,0,0,0], "pcf0.png", "cqYuegYYP0c", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Choose One", [1,0,0,0,0,0], "pcf0.png", "55FqGc2bW3Y", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Best For You", [1,0,0,0,0,0], "pcf0.png", "kQRuRCq0j2s", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Tokyo Spiral", [1,0,0,0,0,0], "pcf0.png", "st_e1bJoM5A", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Spread The Wings", [1,0,0,0,0,0], "pcf0.png", "CqsDUSjx9r0", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Spark It Up", [1,0,0,0,0,0], "pcf0.png", "ouSrJ0KXIYU", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Bitter Sweet", [1,0,0,0,0,0], "pcf0.png", "XGnkTV0proU", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Snow Candy", [1,0,0,0,0,0], "pcf0.png", "oRBu9RhHcMs", "P.C.F", "P.C.F", "", 0, 0],
+[1, "PSYCHIC FEVER!!", [1,0,0,0,0,0], "pcf0.png", "clurELOmptw", "P.C.F", "P.C.F", "", 0, 0],
 	
 //PF1
-[1, "BAKU BAKU", [0,1,0,0,0,0], "https://i.imgur.com/m5tRBW8.png", "4QhFTHu3N-c", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
-[1, "Highlights", [0,1,0,0,0,0], "https://i.imgur.com/m5tRBW8.png", "Ck1iB6d3J88", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
-[1, "アシンメトリー (Asymmetry)", [0,1,0,0,0,0], "https://i.imgur.com/m5tRBW8.png", "N1lVtFyNqDk", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
-[1, "Nice & Slow", [0,1,0,0,0,0], "https://i.imgur.com/m5tRBW8.png", "J3Ge1d5k5Ag", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
-[1, "Up and Down", [0,1,0,0,0,0], "https://i.imgur.com/m5tRBW8.png", "nXuDvi4L_w8", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
-[1, "ForEVER", [0,1,0,0,0,0], "https://i.imgur.com/m5tRBW8.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "BAKU BAKU", [0,1,0,0,0,0], "pcf1.png", "4QhFTHu3N-c", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Highlights", [0,1,0,0,0,0], "pcf1.png", "Ck1iB6d3J88", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "アシンメトリー (Asymmetry)", [0,1,0,0,0,0], "pcf1.png", "N1lVtFyNqDk", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Nice & Slow", [0,1,0,0,0,0], "pcf1.png", "J3Ge1d5k5Ag", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Up and Down", [0,1,0,0,0,0], "pcf1.png", "nXuDvi4L_w8", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "ForEVER", [0,1,0,0,0,0], "pcf1.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
 
 //99
-[1, "Just Like Dat feat. JP THE WAVY", [0,0,1,0,0,0], "https://i.imgur.com/pa7h00y.png", "pnn8AaSPlGk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
-[1, "Psyfe Cypher", [0,0,1,0,0,0], "https://i.imgur.com/pa7h00y.png", "TsutU7yYCHk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
-[1, "Rocket (Take You Higher)", [0,0,1,0,0,0], "https://i.imgur.com/pa7h00y.png", "AVK6mBS8y7w", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "Just Like Dat feat. JP THE WAVY", [0,0,1,0,0,0], "99p.png", "pnn8AaSPlGk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "Psyfe Cypher", [0,0,1,0,0,0], "99p.png", "TsutU7yYCHk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "Rocket (Take You Higher)", [0,0,1,0,0,0], "99p.png", "AVK6mBS8y7w", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
 
 	
 //PF2
-[1, "Love Fire", [0,0,0,1,0,0], "https://i.imgur.com/0zaZhFr.png", "BPebdyHsULM", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "IGNITION", [0,0,0,1,0,0], "https://i.imgur.com/0zaZhFr.png", "O9ea0o0fKS8", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "BEE-PO", [0,0,0,1,0,0], "https://i.imgur.com/0zaZhFr.png", "9dVUgo1EuII", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "Pinky Swear", [0,0,0,1,0,0], "https://i.imgur.com/0zaZhFr.png", "oxb8ILrxDFU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "DOKONI", [0,0,0,1,0,0], "https://i.imgur.com/0zaZhFr.png", "Ntni2wHR2RQ", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "Love Fire", [0,0,0,1,0,0], "pcf2.png", "BPebdyHsULM", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "IGNITION", [0,0,0,1,0,0], "pcf2.png", "O9ea0o0fKS8", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "BEE-PO", [0,0,0,1,0,0], "pcf2.png", "9dVUgo1EuII", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "Pinky Swear", [0,0,0,1,0,0], "pcf2.png", "oxb8ILrxDFU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "DOKONI", [0,0,0,1,0,0], "pcf2.png", "Ntni2wHR2RQ", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
 
 //SINGLE
-[1, "To The Top feat. DVI", [0,1,0,0,0,0], "https://i.imgur.com/GhE2xGn.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
-[1, "Temperature (Prod. JP THE WAVY)", [0,0,1,0,0,0], "https://i.imgur.com/c9nPDkR.png", "80KQMCwLzVs", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
-[1, "THE HEAT", [0,0,0,1,0,0], "https://i.imgur.com/0zaZhFr.png", "W9rVDHklH1E", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "FIRE feat. SPRITE", [0,0,0,1,0,0], "https://i.imgur.com/81R0UXg.png", "yKuaLiwclQU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "SPICE feat. F.HERO & BEAR KNUCKLE", [0,0,0,0,1,0], "https://i.imgur.com/rLiYJtn.png", "ZcHwy4dK69Q", "Single", "Single", "", 0, 0],
-[1, "HABANERO", [0,0,0,0,1,0], "https://i.imgur.com/I3Y95Uo.png", "Jc34UElEh34", "Single", "Single", "Battle of Tokyo", 0, 0],
-[1, "RICH & BAD", [0,0,0,0,1,0], "https://i.imgur.com/0KJ2EJR.png", "cmgmKQXsWBs", "Single", "Single", "Battle of Tokyo", 0, 0],
+[1, "To The Top feat. DVI", [0,1,0,0,0,0], "ttt.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Temperature (Prod. JP THE WAVY)", [0,0,1,0,0,0], "temp.png", "80KQMCwLzVs", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "THE HEAT", [0,0,0,1,0,0], "pcf2.png", "W9rVDHklH1E", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "FIRE feat. SPRITE", [0,0,0,1,0,0], "fire.png", "yKuaLiwclQU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "SPICE feat. F.HERO & BEAR KNUCKLE", [0,0,0,0,1,0], "spice.png", "ZcHwy4dK69Q", "Single", "Single", "", 0, 0],
+[1, "HABANERO", [0,0,0,0,1,0], "haba.png", "Jc34UElEh34", "Single", "Single", "Battle of Tokyo", 0, 0],
+[1, "RICH & BAD", [0,0,0,0,1,0], "rab.png", "cmgmKQXsWBs", "Single", "Single", "Battle of Tokyo", 0, 0],
 
 //REMIX
-[1, "Hotline (Remix) feat. JP THE WAVY", [1,0,0,0,0,0], "https://i.imgur.com/uyMwgSW.png", "Do8xvgQuDRA", "P.C.F", "P.C.F", "Remix", 0, 0],
-[1, "Highlights (Twilight Remix)", [0,0,0,0,0,1], "https://i.imgur.com/lp5tmHa.png", "zil7jBlVmZ4", "Remix", "Remix", "Remix", 0, 0],
-[1, "Choose One (Remix) [feat. REO]", [0,0,0,0,0,1], "https://i.imgur.com/pRhiDbA.png", "uZ3f4ULOxXw", "Remix", "Remix", "Remix", 0, 0],
+[1, "Hotline (Remix) feat. JP THE WAVY", [1,0,0,0,0,0], "pcf0.png", "Do8xvgQuDRA", "P.C.F", "P.C.F", "Remix", 0, 0],
+[1, "Highlights (Twilight Remix)", [0,0,0,0,0,1], "hlmi.png", "zil7jBlVmZ4", "Remix", "Remix", "Remix", 0, 0],
+[1, "Choose One (Remix) [feat. REO]", [0,0,0,0,0,1], "c1mi.png", "uZ3f4ULOxXw", "Remix", "Remix", "Remix", 0, 0],
 ];
