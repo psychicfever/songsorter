@@ -86,18 +86,18 @@ var ary_SongData = [
 
 	
 /PF2
-[1, "Love Fire", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "IGNITION", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "BEE-PO", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "Pinky Swear", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "DOKONI", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "Love Fire", [0,0,0,1,0,0], "es1-a-2w.png", "BPebdyHsULM", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "IGNITION", [0,0,0,1,0,0], "es1-a-2w.png", "O9ea0o0fKS8", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "BEE-PO", [0,0,0,1,0,0], "es1-a-2w.png", "9dVUgo1EuII", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "Pinky Swear", [0,0,0,1,0,0], "es1-a-2w.png", "oxb8ILrxDFU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "DOKONI", [0,0,0,1,0,0], "es1-a-2w.png", "Ntni2wHR2RQ", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
 
 //SINGLE
 [1, "To The Top feat. DVI", [0,1,0,0,0,0], "es1-a-2w.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
-[1, "Temperature (Prod. JP THE WAVY)", [0,0,1,0,0,0], "es1-a-2w.png", "PyxEfBtp0sE", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
-[1, "THE HEAT", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "FIRE feat. SPRITE", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
-[1, "SPICE feat. F.HERO & BEAR KNUCKLE", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "", 0, 0],
+[1, "Temperature (Prod. JP THE WAVY)", [0,0,1,0,0,0], "es1-a-2w.png", "80KQMCwLzVs", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "THE HEAT", [0,0,0,1,0,0], "es1-a-2w.png", "W9rVDHklH1E", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "FIRE feat. SPRITE", [0,0,0,1,0,0], "es1-a-2w.png", "yKuaLiwclQU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "SPICE feat. F.HERO & BEAR KNUCKLE", [0,0,0,0,1,0], "es1-a-2w.png", "ZcHwy4dK69Q", "Single", "Single", "", 0, 0],
 [1, "HABANERO", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "Battle of Tokyo", 0, 0],
 [1, "RICH & BAD", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "Battle of Tokyo", 0, 0],
 
