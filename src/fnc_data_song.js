@@ -19,30 +19,12 @@ var int_ResultRank = 3;
 var maxRows = 20;
 
 var ary_TitleData = [
-"Renai",
-"Hoshi no Miyako",
-"play",
-"Sentimental Macchiato",
-"hikari",
-"dead stock",
-"M&W",
-"OUTSIDER",
-"NOMAD",
-"Ichiban Suki na Basho",
-"Shounin Yokkyu",
-"Umibe",
-"SID 10th Anniversary BEST",
-"SID ALL SINGLES BEST",
-"SID Anime Best 2008-2017",
-"Side A complete collection",
-"Side B complete collection ~e.B~",
-"Side B complete collection 〜e.B 2〜",
-"Side B complete collection 〜e.B 3〜",
-"Side B complete collection 〜e.B 4〜",
-"Side B complete collection 〜e.B 5〜",
-"Non-album releases",
-"Concert Themes",
-"Cover Songs"
+"P.C.F",
+"PSYCHIC FILE I", 
+"99.9 PSYCHIC RADIO",
+"PSYCHIC FILE II", 
+"Single", 
+"Remix"
 ];
 
 // Number of columns in the selection list.
@@ -77,64 +59,49 @@ const TRACK_TYPE = 9;
 	const OTHER_THEME = 0;
 
 var ary_SongData = [
-//Renai
-[1, "hotline", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "PQY8b94BqKc", "Renai", "Renai", "", 0, 0],
-[1, "Akagami Shuffle", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "uIP-rKPCJ1M", "Renai", "Renai", "", 0, 0],
+//PCF
+[1, "Hotline", [1,0,0,0,0,0], "es1-a-2w.png", "cqYuegYYP0c", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Choose One", [1,0,0,0,0,0], "es1-a-2w.png", "55FqGc2bW3Y", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Best For You", [1,0,0,0,0,0], "es1-a-2w.png", "kQRuRCq0j2s", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Tokyo Spiral", [1,0,0,0,0,0], "es1-a-2w.png", "st_e1bJoM5A", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Spread The Wings", [1,0,0,0,0,0], "es1-a-2w.png", "CqsDUSjx9r0", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Spark It Up", [1,0,0,0,0,0], "es1-a-2w.png", "ouSrJ0KXIYU", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Bitter Sweet", [1,0,0,0,0,0], "es1-a-2w.png", "XGnkTV0proU", "P.C.F", "P.C.F", "", 0, 0],
+[1, "Snow Candy", [1,0,0,0,0,0], "es1-a-2w.png", "oRBu9RhHcMs", "P.C.F", "P.C.F", "", 0, 0],
+[1, "PSYCHIC FEVER!!", [1,0,0,0,0,0], "es1-a-2w.png", "clurELOmptw", "P.C.F", "P.C.F", "", 0, 0],
 	
-//Hoshi no Miyako
-[1, "Aikagi -unplugged ver.-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "ZaNuUH7anU8", "Hoshi no Miyako", "Hoshi no Miyako", "", 1, 0],
+//PF1
+[1, "BAKU BAKU", [0,1,0,0,0,0], "es1-a-2w.png", "4QhFTHu3N-c", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Highlights", [0,1,0,0,0,0], "es1-a-2w.png", "Ck1iB6d3J88", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "アシンメトリー (Asymmetry)", [0,1,0,0,0,0], "es1-a-2w.png", "N1lVtFyNqDk", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Nice & Slow", [0,1,0,0,0,0], "es1-a-2w.png", "J3Ge1d5k5Ag", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Up and Down", [0,1,0,0,0,0], "es1-a-2w.png", "nXuDvi4L_w8", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "ForEVER", [0,1,0,0,0,0], "es1-a-2w.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
 
-//play
-[1, "chapter 1", [0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "chapter 1.png", "545F9DRWccM", "chapter 1", "", "", 0, 0],
-	
-//Sentimental Macchiato
-[1, "and boyfriend", [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "TJOsuADKwn0", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+//99
+[1, "Just Like Dat feat. JP THE WAVY", [0,0,1,0,0,0], "es1-a-2w.png", "pnn8AaSPlGk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "Psyfe Cypher", [0,0,1,0,0,0], "es1-a-2w.png", "TsutU7yYCHk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "Rocket (Take You Higher)", [0,0,1,0,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
 
-//hikari
-[1, "capsule", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "YR0zbHb5Fik", "hikari", "hikari", "", 0, 0],
 	
-//dead stock
-[1, "cosmetic",	[0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "cosmetic.png", "Q3lzZoGd6z0", "cosmetic", "", "", 0, 0],
-	
-//M&W
-[1, "Café de Bossa", [0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "M&W.png", "IUy1gOWaceo", "M&W", "M&W", "", 0, 0],
+/PF2
+[1, "Love Fire", [0,0,0,1,0,0], "es1-a-2w.png", "BPebdyHsULM", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "IGNITION", [0,0,0,1,0,0], "es1-a-2w.png", "O9ea0o0fKS8", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "BEE-PO", [0,0,0,1,0,0], "es1-a-2w.png", "9dVUgo1EuII", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "Pinky Swear", [0,0,0,1,0,0], "es1-a-2w.png", "oxb8ILrxDFU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "DOKONI", [0,0,0,1,0,0], "es1-a-2w.png", "Ntni2wHR2RQ", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
 
-//OUTSIDER
-[1, "Akaite", [0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "OUTSIDER.png", "ER2Rm73wgqI", "OUTSIDER", "OUTSIDER", "", 0, 0],
+//SINGLE
+[1, "To The Top feat. DVI", [0,1,0,0,0,0], "es1-a-2w.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Temperature (Prod. JP THE WAVY)", [0,0,1,0,0,0], "es1-a-2w.png", "80KQMCwLzVs", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "THE HEAT", [0,0,0,1,0,0], "es1-a-2w.png", "W9rVDHklH1E", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "FIRE feat. SPRITE", [0,0,0,1,0,0], "es1-a-2w.png", "yKuaLiwclQU", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "SPICE feat. F.HERO & BEAR KNUCKLE", [0,0,0,0,1,0], "es1-a-2w.png", "ZcHwy4dK69Q", "Single", "Single", "", 0, 0],
+[1, "HABANERO", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "Battle of Tokyo", 0, 0],
+[1, "RICH & BAD", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "Battle of Tokyo", 0, 0],
 
-//NOMAD
-[1, "Butterfly Effect", [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Butterfly Effect.png", "3ulJz9M1Qak", "Butterfly Effect", "", "", 0, 0],
-	
-//Ichiban Suki na Basho
-[1, "Ichiban Suki na Basho", [0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Ichiban Suki na Basho.png", "ZhF60NfXpKo", "Ichiban Suki na Basho", "", "", 0, 0],
-	
-//Shounin Yokkyu
-[1, "Awai Ashiato", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "3jRDnm1CoIA", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
-[1, "Blood Vessel", [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0], "Shounin Yokkyu.png", "9A7HLX47NWE", "Shounin Yokkyu", "Shounin Yokkyu", "", 0, 0],
-	
-//Umibe
-[1, "Daisuki Dakara...", [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Umibe.png", "-Y8VqWE2SQw", "Umibe", "Umibe", "", 0, 0],
-	
-	
-//SID ALL SINGLES BEST
-[1, "ENAMEL", [0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0], "ENAMEL.png", "4C2AC0iH8Kc", "ENAMEL", "", "Black Butler: Book of Circus Opening", 0, 1],
-	
-//SID Anime Best 2008-2017
-[1, "ASH", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0], "SID Anime Best 2008-2017.png", "TaeUco6mL-g", "SID Anime Best 2008-2017", "Anime Best", "Self-cover of LiSA's ASH", 1, 1],
-	
-//Side A complete collection
-[1, "delete", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "delete.png", "zNk8xw0AwPk", "delete", "", "The Seven Deadly Sins: Wrath of The Gods Opening 2", 0, 1],
-	
-
-//Side B complete collection 〜e.B〜
-[1, "Aoi Renga", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "chapter 1.png", "JtxG1-lPJGU", "chapter 1", "chapter 1", "", 0, 0],
-	
-//Side B complete collection 〜e.B 2〜/Side B complete collection 〜e.B 4〜
-[1, "CELEBRITY", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0], "Side B complete collection 〜e.B 2〜.png", "IVlqnWcCTOo", "Side B complete collection 〜e.B 2〜", "Side B 2", "", 0, 0],
-
-//Side B complete collection 〜e.B 3〜/Side B complete collection 〜e.B 4〜
-[1, "Akikaze", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0], "Itsuka.png", "uMgQD9FjcZY", "Itsuka", "Itsuka", "", 0, 0],
-	
-//Side B complete collection 〜e.B 5〜
-[1, "Chiisana Tsubasa", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0], "Garasu no Hitomi.png", "nknQ7te4YAk", "Garasu no Hitomi", "Garasu no Hitomi", "", 0, 0]
+//REMIX
+[1, "Hotline (Remix) feat. JP THE WAVY", [1,0,0,0,0,0], "es1-a-2w.png", "Do8xvgQuDRA", "P.C.F", "P.C.F", "Remix", 0, 0],
+[1, "Highlights (Twilight Remix)", [0,0,0,0,0,1], "es1-a-2w.png", "Do8xvgQuDRA", "Remix", "Remix", "Remix", 0, 0],
+[1, "Choose One (Remix) [feat. REO]", [0,0,0,0,0,1], "es1-a-2w.png", "Do8xvgQuDRA", "Remix", "Remix", "Remix", 0, 0],
 ];
