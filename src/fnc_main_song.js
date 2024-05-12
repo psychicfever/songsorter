@@ -93,7 +93,6 @@ function startup()
 	}
 
 	getID('optImage').disabled = false;
-	getID('optArrange').disabled = false;
 
 	var tbl_foot_Select = createElement('tfoot');
 	tbl_Select.appendChild(tbl_foot_Select);
@@ -137,7 +136,6 @@ function init()
 {
 	int_Total = 0;
 	int_RecordID = 0;
-	var arranges = getID('optArrange').checked;
 	var sortTypes = getID('optSortType').options[getID('optSortType').selectedIndex].value;
 
 	// Add to the arrays only the tracks that we expect.
@@ -158,9 +156,8 @@ function init()
 					|| (sortTypes == 3 && ary_SongData[i][TRACK_TYPE] === BOSS_THEME) // Boss only
 					|| ary_SongData[i][TRACK_TYPE] === STAGE_AND_BOSS_THEME // Included in all options
 				);
-				const correctArrangementType = arranges || (ary_SongData[i][TRACK_IS_ARRANGEMENT] === NOT_ARRANGEMENT);
 
-				if (correctTrackType && correctArrangementType)
+				if (correctTrackType)
 				{
 					ary_TempData[int_Total] = ary_SongData[i];
 					int_Total++;
@@ -194,7 +191,6 @@ function init()
 		getID('optSelect_all').disabled = true;
 		$('.opt_foot').hide();
 		getID('optImage').disabled = true;
-		getID('optArrange').disabled = true;
 		setClass(getID('optTable'), 'optTable-disabled');
 	}
 
