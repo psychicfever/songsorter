@@ -20,31 +20,12 @@ var maxRows = 42;
 
 // * Game and album titles
 var ary_TitleData = [
-"Renai",
-"Hoshi no Miyako",
-"play",
-"Sentimental Macchiato",
-"hikari",
-"dead stock",
-"M&W",
-"OUTSIDER",
-"NOMAD",
-"Ichiban Suki na Basho",
-"Shounin Yokkyu",
-"Umibe",
-"SID 10th Anniversary BEST",
-"SID ALL SINGLES BEST",
-"SID Anime Best 2008-2017",
-"Side A complete collection",
-"Side B complete collection ~e.B~",
-"Side B complete collection 〜e.B 2〜",
-"Side B complete collection 〜e.B 3〜",
-"Side B complete collection 〜e.B 4〜",
-"Side B complete collection 〜e.B 5〜",
-"Non-album releases",
-"Concert Themes",
-"Cover Songs",
-"Other Artists"
+"P.C.F",
+"PSYCHIC FILE I", 
+"99.9 PSYCHIC RADIO",
+"PSYCHIC FILE II", 
+"Singles", 
+"Remixes"
 ];
 
 // Number of columns in the selection list.
