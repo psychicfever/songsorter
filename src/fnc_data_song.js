@@ -24,8 +24,8 @@ var ary_TitleData = [
 "99.9 PSYCHIC RADIO",
 "PSYCHIC FILE II", 
 "Single", 
-"Remix"
-];
+"Remix"]
+;
 
 // Number of columns in the selection list.
 var int_Colspan = 4;
@@ -84,7 +84,7 @@ var ary_SongData = [
 [1, "Rocket (Take You Higher)", [0,0,1,0,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
 
 	
-/PF2
+//PF2
 [1, "Love Fire", [0,0,0,1,0,0], "es1-a-2w.png", "BPebdyHsULM", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
 [1, "IGNITION", [0,0,0,1,0,0], "es1-a-2w.png", "O9ea0o0fKS8", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
 [1, "BEE-PO", [0,0,0,1,0,0], "es1-a-2w.png", "9dVUgo1EuII", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
