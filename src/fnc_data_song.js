@@ -16,7 +16,7 @@ str_YouLink = 'https://www.youtube.com/watch?v=';
 var int_ResultRank = 3;
 
 // Maximum number of result rows before being broken off into another table.
-var maxRows = 42;
+var maxRows = 20;
 
 var ary_TitleData = [
 "Renai",
@@ -79,7 +79,7 @@ const TRACK_TYPE = 9;
 
 var ary_SongData = [
 //Renai
-[1, "Ajisai", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "PQY8b94BqKc", "Renai", "Renai", "", 0, 0],
+[1, "hotline", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "PQY8b94BqKc", "Renai", "Renai", "", 0, 0],
 [1, "Akagami Shuffle", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "uIP-rKPCJ1M", "Renai", "Renai", "", 0, 0],
 [1, "Ao", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "jk8mAkFh9tU", "Renai", "Renai", "", 0, 0],
 [1, "Doyoubi no Onna", [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Renai.png", "_-SQ8FB9Wik", "Renai", "Renai", "", 0, 0],
