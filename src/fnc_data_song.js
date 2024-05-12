@@ -24,8 +24,8 @@ var ary_TitleData = [
 "PSYCHIC FILE I", 
 "99.9 PSYCHIC RADIO",
 "PSYCHIC FILE II", 
-"Singles", 
-"Remixes"
+"Single", 
+"Remix"
 ];
 
 // Number of columns in the selection list.
@@ -72,61 +72,37 @@ var ary_SongData = [
 [1, "PSYCHIC FEVER!!", [1,0,0,0,0,0], "es1-a-2w.png", "clurELOmptw", "P.C.F", "P.C.F", "", 0, 0],
 	
 //PF1
-[1, "Aikagi -unplugged ver.-", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "ZaNuUH7anU8", "Hoshi no Miyako", "Hoshi no Miyako", "", 1, 0],
-[1, "Alibi", [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "gpxyLpwRrsk", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Binetsu", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "QjFhwBNWb5c", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Caramel", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "Q2-CWVDUJAg", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Hoshi no Miyako", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "eya9viB-v8s", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Izon no Niwa", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "p0ezADwaLVM", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Ringo Ame", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "9pLCa7ZbQ78", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Sono Daisho", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "l-_Eqrp-LLs", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Sweet?", [0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Sweet.png", "9llwW5E5tHI", "Sweet?", "", "", 0, 0],
-[1, "Toge to Neko", [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "xDPFAzrjdvU", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
-[1, "Yell", [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Hoshi no Miyako.png", "u_CIUuRlwFo", "Hoshi no Miyako", "Hoshi no Miyako", "", 0, 0],
+[1, "BAKU BAKU", [0,1,0,0,0,0], "es1-a-2w.png", "4QhFTHu3N-c", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Highlights", [0,1,0,0,0,0], "es1-a-2w.png", "Ck1iB6d3J88", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "アシンメトリー (Asymmetry)", [0,1,0,0,0,0], "es1-a-2w.png", "N1lVtFyNqDk", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Nice & Slow", [0,1,0,0,0,0], "es1-a-2w.png", "J3Ge1d5k5Ag", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Up and Down", [0,1,0,0,0,0], "es1-a-2w.png", "nXuDvi4L_w8", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "ForEVER", [0,1,0,0,0,0], "es1-a-2w.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
 
 //99
-[1, "chapter 1", [0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "chapter 1.png", "545F9DRWccM", "chapter 1", "", "", 0, 0],
-[1, "Hosoikoe", [0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Hosoikoe.png", "RWTvQkZEN6U", "Hosoikoe", "", "", 0, 0],
-[1, "live", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "5StYQbz-0_Y", "play", "play", "", 0, 0],
-[1, "Milk", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "P4FHbqwsmL8", "play", "play", "", 0, 0],
-[1, "Otegami", [0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0], "Otegami.png", "ucKuWm3P6Ao", "Otegami", "", "", 0, 0],
-[1, "park", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "9CCVg8R5wEU", "play", "play", "", 0, 0],
-[1, "Room", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "8J6mPjzYtNE", "play", "play", "", 0, 0],
-[1, "Shiroi Blouse Kawaii Hito", [0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "v8vT-uyqweU", "play", "play", "", 0, 0],
-[1, "Shutter Speed", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "Ou0u88-x6wg", "play", "play", "", 0, 0],
-[1, "Slow", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "FR50bgMjz84", "play", "play", "", 0, 0],
-[1, "Wana", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "kNiXJAm1TY0", "play", "play", "", 0, 0],
-[1, "Yogoreta Yubi", [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "play.png", "j70Mj469Pis", "play", "play", "", 0, 0],
+[1, "Just Like Dat feat. JP THE WAVY", [0,0,1,0,0,0], "es1-a-2w.png", "pnn8AaSPlGk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "Psyfe Cypher", [0,0,1,0,0,0], "es1-a-2w.png", "TsutU7yYCHk", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "Rocket (Take You Higher)", [0,0,1,0,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+
 	
 /PF2
-[1, "and boyfriend", [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "TJOsuADKwn0", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
-[1, "Dear Tokyo", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "s8St4aJIxBI", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
-[1, "Mascara", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "oDElg7X0ucQ", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
-[1, "Migite no Spoon to Hatsukoi to Knife", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "PiKEkczSEHE", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
-[1, "Mitsuyubi", [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Mitsuyubi.png", "_5MyZOA3MmM", "Mitsuyubi", "", "", 0, 0],
-[1, "Namida no Ondo", [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Namida no Ondo.png", "-uV5PEiyxeo", "Namida no Ondo", "", "", 0, 0],
-[1, "Natsukoi", [0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0], "Natsukoi.png", "t2Yh8hC32w0", "Natsukoi", "", "", 0, 0],
-[1, "orion", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "h_ahtTJiihM", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
-[1, "Shougen", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "CgOb1kg2eJw", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
-[1, "smile", [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "smile.png", "gVQ2mCPOyZY", "smile", "", "", 0, 0],
-[1, "Yuukan Collection", [0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Sentimental Macchiato.png", "AzKx_fr76og", "Sentimental Macchiato", "Sentimental Macchiato", "", 0, 0],
+[1, "Love Fire", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "IGNITION", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "BEE-PO", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "Pinky Swear", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "DOKONI", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
 
 //SINGLE
-[1, "capsule", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "YR0zbHb5Fik", "hikari", "hikari", "", 0, 0],
-[1, "Circus", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00], "hikari.png", "aVpc43QXI8I", "hikari", "hikari", "", 0, 0],
-[1, "Drama", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0], "hikari.png", "Hh5XHN8ov4o", "hikari", "hikari", "Fullmetal Alchemist: Prince of the Dawn Opening", 0, 1],
-[1, "Hikari", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "fkdaJPzbw6k", "hikari", "hikari", "", 0, 0],
-[1, "Monochrome no Kiss", [0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0], "Monochrome no Kiss.png", "L3gvc189xd0", "Monochrome no Kiss", "", "Black Butler Opening 1", 0, 1],
-[1, "Mousou Nikki 2", [0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "NhZs1mC_r5o", "hikari", "hikari", "", 0, 0],
-[1, "Nakidashita Onna to Kyomukan", [0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0], "Nidome no Kanojo.png", "gIdpxscOgD0", "Nidome no Kanojo", "", "", 0, 0],
-[1, "Nidome no Kanojo", [0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0], "Nidome no Kanojo.png", "nxMNVaWi2sM", "Nidome no Kanojo", "", "", 0, 0],
-[1, "Rakuen", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "yEsd-5Tdhy0", "hikari", "hikari", "", 0, 0],
-[1, "Tsumiki Kuzushi", [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "hikari.png", "9O31M_bgxBk", "hikari", "hikari", "", 0, 0],
-[1, "Uso", [0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0], "Uso.png", "sKu3LjLW4CQ", "Uso", "", "Fullmetal Alchemist: Brotherhood Ending 1", 0, 1],
-	
+[1, "To The Top feat. DVI", [0,1,0,0,0,0], "es1-a-2w.png", "PyxEfBtp0sE", "PSYCHIC FILE I", "PSYCHIC FILE I", "", 0, 0],
+[1, "Temperature (Prod. JP THE WAVY)", [0,0,1,0,0,0], "es1-a-2w.png", "PyxEfBtp0sE", "99.9 Psychic Radio", "99.9 Psychic Radio", "", 0, 0],
+[1, "THE HEAT", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "FIRE feat. SPRITE", [0,0,0,1,0,0], "es1-a-2w.png", "AVK6mBS8y7w", "PSYCHIC FILE II", "PSYCHIC FILE II", "", 0, 0],
+[1, "SPICE feat. F.HERO & BEAR KNUCKLE", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "", 0, 0],
+[1, "HABANERO", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "Battle of Tokyo", 0, 0],
+[1, "RICH & BAD", [0,0,0,0,1,0], "es1-a-2w.png", "AVK6mBS8y7w", "Single", "Single", "Battle of Tokyo", 0, 0],
+
 //REMIX
 [1, "Hotline (Remix) feat. JP THE WAVY", [1,0,0,0,0,0], "es1-a-2w.png", "Do8xvgQuDRA", "P.C.F", "P.C.F", "Remix", 0, 0],
-[1, "Owari no Hajimari", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Owari no Hajimari.png", "jdEVhT5z1hA", "Owari no Hajimari", "Taiki", "written for Taiki", 0, 0],
-[1, "Usubeniiro no Yakusoku", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Usubeniiro no Yakusoku.png", "i4q--jr5tB0", "Ensemble Stars! Album Series PRESENT -AKATSUKI-", "AKATSUKI", "written for AKATSUKI (Ensemble Stars!)", 0, 0],
-[1, "Zakuro", [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], "Zakuro:Kyouki no Melody.png", "i8SX5nGvesI", "Zakuro/Kyouki no Melody", "Fantôme Iris", "written for Fantôme Iris (from ARGONAVIS)", 0, 0]
+[1, "Highlights (Twilight Remix)", [0,0,0,0,0,1], "es1-a-2w.png", "Do8xvgQuDRA", "Remix", "Remix", "Remix", 0, 0],
+[1, "Choose One (Remix) [feat. REO]", [0,0,0,0,0,1], "es1-a-2w.png", "Do8xvgQuDRA", "Remix", "Remix", "Remix", 0, 0],
 ];
