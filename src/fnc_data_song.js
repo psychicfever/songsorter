@@ -42,8 +42,7 @@ var ary_TitleData = [
 "Side B complete collection 〜e.B 5〜",
 "Non-album releases",
 "Concert Themes",
-"Cover Songs",
-"Other Artists"
+"Cover Songs"
 ];
 
 // Number of columns in the selection list.
